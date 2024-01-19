@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet"  href="{{ url_for('static' , filename='style.css') }}">
+  
+
+  <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+  <title>
+    Sonic Sphere/Ed Sheeran
+  </title>
+  <link rel="icon" type="image/x-icon" href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+  <div class="navbar">
+    <div class="name">
+      <a href="{{ url_for('home')}}" style="position:relative;left:900px;top:20px;">Home</a>
+      <a href="{{ url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+      <a href="{{ url_for('Album')}}"  style="position:relative;left:900px;top:20px">Albums</a>
+      <a href="{{ url_for('Search')}}" style="position: relative; left:900px; top:20px;">Search</a>
+      <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+
+      <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+            <a href="{{ url_for('ArtistSpotlight')}}" class="active" style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+<a href="{{ url_for('About')}}" style="position:relative;left:900px;top: 20px;">About</a>
+    </div>
+    <a href="{{ url_for('home')}}">
+      <img
+        src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+        style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+    <a href="{{ url_for('home')}}"
+      style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+  </div>
+
+</head>
+
+
+<body>
+   <div class="Title">
+        <div class="Text">
+            <p style="font-size: 70px;">Artist Spotlight</p>
+        </div>
+    </div>
+  <div class="container1">
+    <a id="top"></a>
+
+    
+ 
+<div class="container12" style="grid-template-columns: 1fr 0.4fr ;">
+<div class="container_about_Ed" >
+    <img src="https://www.rollingstone.com/wp-content/uploads/2023/03/ed-sheeran-new-single.jpg?w=1581&h=1054&crop=1" style="width: 790.5px;height: 527px; border-radius: 10px;" >
+          <h2 class="rank_Ed1">#3</h2>
+    <p class="rank_Ed2">in the world</p>
+    <h1  class="title_Ed" style="font-size: 40px;">Ed Sheeran</h1>
+    
+    
+    <h3 class="text_Ed"> <b>83,992,168 monthly listeners</b><br><br>Ed Sheeran may be the quintessential pop star of the 2010s: a singer/songwriter who seems<br> to acknowledge no boundaries between  styles or eras, creating a  sound that's idiosyncratic <br>and personal. Sheeran borrows from any style that crosses his path -- elements of folk,<br> hip-hop, pop, dance, soul, and rock can be heard in his big hits</h3>
+    <span class="material-symbols-outlined" style="font-size: 20px;position: absolute;left: 700px;bottom: 30px;" ><a title="More" href="{{ url_for('Ed_sheeranSpotlight') }}">
+      arrow_forward_ios
+    </a>
+    
+      
+      </span>
+
+  </div>
+  <p><a style="font-size: 27px;color: antiquewhite;" href="{{ url_for('Ed_sheeranSpotlight') }}" ><b>Ed Sheeran | Artist Spotlight</b></a> <br><br><a style="font-size: 13px;"> When searching for words to describe Ed Sheeran, it<br> seemed nearly impossible however, AllMusic.com’s<br> Jon O’Brien says it best.”Flame-haired singer/songwriter, beatboxer, and guitarist Ed Sheeran’s eclectic blend of <br>acoustic pop, folk, and hip-hop has been championed by everyone from the … </a><a style="font-size: 16px;color:antiquewhite" href="{{ url_for('Ed_sheeranSpotlight') }}">Read More>></a> </p>
+</div>
+  <span class="material-symbols-outlined" style="position: relative;left:1300px;bottom:1px;font-size: 15px;"><a
+    href="#" title="Back to Top">
+    arrow_upward
+  </a>
+</span>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+<footer>
+<div class="footer-container">
+<div class="footer-logo">
+  <a href="{{ url_for('home')}}">
+    <img
+      src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+      style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px"> </a>
+  <a href="{{ url_for('home')}}"
+    style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+    SonicSphere </a>
+</div>
+<div class="footer-links" style="position: relative;right: 150px;">
+  <ul>
+    <li><a href="{{url_for('home')}}">Home</a></li>
+    <li><a href="{{ url_for('About') }}">About Us</a></li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+    <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+  </ul>
+</div>
+</div>
+<!-- <div class="footer-social" >
+    <ul>
+       <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+       <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+       <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+    </ul>
+ </div> -->
+ 
+
+<div class="footer-credits" style="position: relative;left: 200px;">
+<p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+</div>
+</footer>
+
+</html>

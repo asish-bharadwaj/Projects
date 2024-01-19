@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>About Sonicsphere</title>
+   <link rel="icon" type="image/x-icon" href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="{{ url_for('static' , filename='style.css') }}">
+   <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+
+   <header>
+      <!-- Navigation menu here -->
+      <div class="navbar">
+         <div class="name">
+            <a href="{{ url_for('home')}}" style="position:relative;left:900px;top:20px;">Home</a>
+            <a href="{{ url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+            <a href="{{ url_for('Album')}}"  style="position:relative;left:900px;top:20px">Albums</a>
+            <a href="{{ url_for('Search')}}" style="position: relative; left:900px; top:20px;">Search</a>
+            <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+            <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+
+                  <a href="{{ url_for('ArtistSpotlight')}}" style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+      <a href="{{ url_for('About')}}" class="active" style="position:relative;left:900px;top: 20px;">About</a>
+         </div>
+         <a href="{{ url_for('home')}}">
+            <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+        <a href="{{ url_for('home')}}"
+            style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+      </div>
+   </header>
+</head>
+
+<body>
+   <div class="container1">
+      <main>
+
+         <h1>About Us</h1>
+         <p>Sonicsphere is a music review and rating website created by Kandi Jayanth and Asish Bharadwaj from the
+            International Institute of Information Technology, Hyderabad.</p>
+         <p>Our mission is to provide a platform for music enthusiasts to discover and share their favorite songs,
+            artists, and albums with others, while also providing informative reviews and ratings to help guide their
+            musical journey.</p>
+         <h2>Meet the Creators</h2>
+         <div class="container12">
+            <div class="creator-1">
+               <img src="https://i.ibb.co/LzSV1WW/IMG-20230409-121627.jpg" style="border-radius: 50%;"
+                  alt="Kandi Jayanth">
+
+               <h3>Kandi Jayanth</h3>
+               <p>Kandi Jayanth is a graduate student pursuing a Bachelor's degree in Computer Science at IIIT
+                  Hyderabad.<br> He is passionate about music and enjoys discovering new artists and genres.</p>
+            </div>
+            <div class="creator-2">
+               <!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/pJFRz3S/IMG-20230407-233759.jpg" alt="IMG-20230407-233759" border="0"></a><br /><a target='_blank' href='https://statewideinventory.org/honda-0-60-times'>honda crv 0 60 mph</a><br /> -->
+               <img src="https://i.ibb.co/pJFRz3S/IMG-20230407-233759.jpg" style="border-radius: 50%;"
+                  alt="Asish Bharadwaj">
+               <h3>Asish Bharadwaj</h3>
+               <p>Asish Bharadwaj is a graduate student pursuing a Bachelor's degree in Computer Science at IIIT
+                  Hyderabad. <br>He is an avid music listener and enjoys exploring various genres and styles.</p>
+            </div>
+         </div>
+         <h2>Contact Us</h2>
+         <p>Have a question or comment? We'd love to hear from you! You can reach us at:</p>
+         <ul>
+            <li>Email: <a href="mailto:sonicsphererates@gmail.com  " style="color: antiquewhite;">sonicsphererates@gmail.com  </a></li>
+            <li>Twitter: <a href="https://twitter.com/sonicsphere" target="_blank" style="color: antiquewhite;">@spheresonicrate</a></li>
+      </main>
+      <footer>
+         <!-- Footer content here -->
+         <div class="footer-container">
+            <div class="footer-logo">
+               <a href="{{ url_for('home')}}">
+                  <img
+                     src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                     style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px">
+               </a>
+               <a href="{{ url_for('home')}}"
+                  style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+                  SonicSphere </a>
+            </div>
+            <div class="footer-links" style="position: relative;right: 150px;">
+               <ul>
+                  <li><a href="{{ url_for('home')}}">Home</a></li>
+                  <li><a href="{{ url_for('About')}}">About Us</a></li>
+                  <li><a href="#">Contact</a></li>
+                  <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+                  <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+               </ul>
+            </div>
+         </div>
+         <!-- <div class="footer-social" >
+           <ul>
+              <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+           </ul>
+        </div> -->
+
+         <div class="footer-credits" style="position: relative;left: 200px;">
+            <p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+         </div>
+      </footer>
+</body>
+
+</html>

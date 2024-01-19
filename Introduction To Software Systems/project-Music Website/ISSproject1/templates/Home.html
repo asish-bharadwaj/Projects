@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="{{ url_for('static' , filename='style.css') }}">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <title>
+        SonicSphere-Music reviews and ratings, all in one place.
+    </title>
+    <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+    <link rel="icon" type="image/x-icon"
+        href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+    <a href="{{ url_for('home')}}"
+        style="font-family:Bungee Inline; font-size: 125px;color: antiquewhite;position: relative;left:250px;">
+        SonicSphere</a>
+    <div class="navbar">
+        <div class="name">
+
+                    <!-- <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." style="position:relative;left:1150px;top:20px;"> -->
+
+            <!-- <ul id="myUL">
+              <li><a href="#">Adele</a></li>
+              <li><a href="#">Agnes</a></li>
+            
+              <li><a href="#">Billy</a></li>
+              <li><a href="#">Bob</a></li>
+            
+              <li><a href="#">Calvin</a></li>
+              <li><a href="#">Christina</a></li>
+              <li><a href="#">Cindy</a></li>
+            </ul>  -->
+
+            
+            <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">  -->
+
+            <a href="{{ url_for('home')}}" class="active" style="position:relative;left:900px;top:20px;">Home</a>
+            <a href="{{ url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+            <a href="{{ url_for('Album')}}"  style="position:relative;left:900px;top:20px">Albums</a>
+            <a href="{{ url_for('Search')}}" style="position: relative; left:900px; top:20px;">Search</a>
+            <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+            <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+                  <a href="{{ url_for('ArtistSpotlight')}}" style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+      <a href="{{ url_for('About')}}" style="position:relative;left:900px;top: 20px;">About</a>
+        </div>
+        <a href="{{ url_for('home')}}">
+            <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+        <a href="{{ url_for('home')}}"
+            style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+    </div>
+</head>
+
+
+<body>
+
+    <!-- <a id="Home" href="{{ url_for('home')}}">Home</a> -->
+    <div class="container1">
+
+        <a id="top"></a>
+        <p></p>
+        <!-- <div class="scrollmenu" >
+          
+            <a href="{{ url_for('home')}}"> Home</a>
+                     
+            <a href="{{ url_for('Artists')}}">Artists</a>
+                    
+            <a href="{{ url_for('Album')}}">Albums</a>
+                    
+            <a href="./sampleSongs.html">Songs</a>
+            <a href="#news">latestNews</a>
+                      <a href="About.html">About</a>
+            <a href="#blog">Blog</a>
+          
+               ...
+          </div>  -->
+
+
+
+        <div class="present" style="text-align: center;">
+            <h1>Home</h1>
+        </div>
+        <hr>
+        <h1>Top Artists</h1>
+        <br>
+
+        <!-- <div class="scroll1" style="overflow: auto; width" -->
+        <div class="container2">
+            <p></p>
+
+            <div class="artist">
+                <div class="but">
+                    <a href="{{url_for('Ed_Sheeran')}}">
+                        <img src="https://assets.capitalfm.com/2022/43/ed-sheeran--1666953393-editorial-short-form-0.jpg"
+                            style="width:250px;height:250px;border-radius: 50%;">
+                        <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> Ed
+                            Sheeran</span>
+                    </a>
+                </div>
+            </div>
+            <div class="artist">
+                <div class="but">
+                    <a href="{{url_for('Imagine_dragons')}}">
+                        <img src="data:image/jpeg;base64,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"
+                            style="width:250px;height:250px;border-radius: 50%;box-shadow: 0 4px 60px rgba(0,0,0,5);">
+                        <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Imagine
+                            Dragons</span>
+                    </a>
+                </div>
+            </div>
+            <div class="artist">
+                <div class="but">
+                    <a href="{{url_for('One_direction')}}">
+                        <img src="https://i.scdn.co/image/289c7f686f5b78ceeb224453cf9a15697a678a79"
+                            style="width:250px;height:250px;border-radius: 50%;">
+                        <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">One
+                            Direction</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <br>
+        <hr width="400px">
+        <!-- <hr width="700px"> -->
+
+        <br>
+
+        <h1>Top Albums</h1>
+        <br>
+
+        <div class="container2">
+            <p></p>
+
+            <div class="artist">
+                <div class="but">
+                    <a href="{{url_for('Divide')}}">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png"
+                            style="width:250px;height:250px;border-radius: 50%;">
+                        <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">
+                            &divide;(Deluxe)</span>
+                    </a>
+                </div>
+            </div>
+            <div class="artist">
+                <div class="but">
+                    <a href="{{url_for('Midnight_memories')}}">
+                        <img src="https://i.scdn.co/image/ab67616d0000b2732f76b797c382bedcafdf45e1"
+                            style="width:250px;height:250px;border-radius: 50%;">
+                        <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Midnight
+                            Memories</span>
+                    </a>
+                </div>
+            </div>
+            <div class="artist">
+                <div class="but">
+                    <a href="{{url_for('Melodrama')}}">
+                        <img src="https://i.insider.com/5dc0a9aeae98570a2972e7b3?width=1300&format=jpeg&auto=webp"
+                            style="width:250px;height:250px;border-radius: 50%;">
+                        <span class="caption"
+                            style="color:whitesmoke;font-family: cursive; font-size: 25px;">Melodrama</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <p></p>
+        <br>
+        <hr width="400px">
+        <!-- <hr width="700px"> -->
+
+        <br>
+
+        <h1>Top Songs</h1>
+        <br>
+        <div class="container4">
+            <p></p>
+
+            <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Taylor_Swift_-_Anti-Hero.png"
+                style="width:120px;height:120px;">
+            <p class="text1" style="font-size:15px;text-align: left;">
+                <b>Anti-Hero.</b><br>
+                Taylor Swift.<br>
+                3:20 mins.
+            </p>
+            <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Imagine_Dragons_Bones_cover.jpg"
+                style="width:120px;height:120px;">
+            <p class="text1" style="font-size:15px;text-align: left;">
+                <b>Bones.</b><br>
+                Imagine Dragons.<br>
+                2:45 mins.
+            </p>
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Ed_Sheeran_-_Eyes_Closed.png/220px-Ed_Sheeran_-_Eyes_Closed.png"
+                style="width:120px;height:120px;">
+            <p class="text1" style="font-size:15px;text-align: left;">
+                <b> Eyes Closed.</b><br>
+                Ed Sheeran.<br>
+                3:14 mins.
+            </p>
+        </div>
+        <p></p>
+        <br>
+
+        <!-- <hr width="700px"> -->
+
+        <span class="material-symbols-outlined" style="position: relative;left:1300px;bottom:1px;font-size: 15px;"><a
+                href="#" title="Back to Top">
+                arrow_upward
+            </a>
+        </span>
+
+
+
+
+
+</body>
+
+<footer>
+    <div class="footer-container">
+        <div class="footer-logo">
+            <a href="{{ url_for('home')}}">
+                <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                    style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px">
+            </a>
+            <a href="{{ url_for('home')}}"
+                style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+                SonicSphere </a>
+        </div>
+        <div class="footer-links" style="position: relative;right: 150px;">
+            <ul>
+                <li><a href="{{ url_for('home')}}">Home</a></li>
+                <li><a href="{{ url_for('About')}}">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+                <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- <div class="footer-social" >
+          <ul>
+             <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+          </ul>
+       </div> -->
+
+    <div class="footer-credits" style="position: relative;left: 200px;">
+        <p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+    </div>
+</footer>
+
+</html>
+<!-- <div class="name">
+        <h1><a href="https://www.google.com/">Name</a>
+        </h1>  </div> -->
+
+<!-- <p>
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
+</p> -->
+<!-- <button onclick="window.location.href = "">HOME</button> -->
+<!-- <form>
+    <button type="submit" formaction="https://www.nextPage.com">Click me</button>
+ </form>
+ <form action = "https://www.nextPage.com">
+    <buttonx>
+        Click Me
+    </button>
+</form> -->
+
+<!-- <div class="but" style="position: fixed;">
+    <a href="https://www.google.com/">
+        <button class="b">Home</button>
+    </a>
+</div>
+
+<div class="scrollmenu" >
+    <a href="https://www.google.com/">
+        <buttonx class="Home">Home</button>
+    </a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+    <a href="#blog">Blog</a>
+    <a href="#profile">Profile</a>
+       ...
+  </div> 
+<h3>
+   Artists<
+  </h3>
+  <div class="scroll_artists1" style="overflow: auto; width: 1000px; height: 200px;">
+<div class="scroll_artists1" style="width: 1700px;">
+<img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA11xXky.img?h=552&w=750&m=6&q=60&u=t&o=f&l=f&x=420&y=132" style="float: left; width:200px;height:200px; "  -->
+<!-- </div>
+
+</div> -->

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "prompt.h": "c",
+        "pwd.h": "c"
+    }
+}

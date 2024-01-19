@@ -1,0 +1,1228 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="{{ url_for('static' , filename='style.css') }}">
+  <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+  <title>
+    Sonic Sphere/Albums
+  </title>
+  <link rel="icon" type="image/x-icon" href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+  <div class="navbar">
+    <div class="name">
+      <a href="{{ url_for('home')}}" style="position:relative;left:900px;top:20px;">Home</a>
+      <a href="{{ url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+      <a href="{{ url_for('Album')}}" class="active" style="position:relative;left:900px;top:20px">Albums</a>
+      <a href="{{ url_for('Search')}}" style="position: relative; left:900px; top:20px;">Search</a>
+      <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+
+      <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+            <a href="{{ url_for('ArtistSpotlight')}}" style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+<a href="{{ url_for('About')}}" style="position:relative;left:900px;top: 20px;">About</a>
+    </div>
+    <a href="{{ url_for('home')}}">
+      <img
+        src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+        style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+    <a href="{{ url_for('home')}}"
+      style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+  </div>
+
+</head>
+
+
+<body>
+  <div class="container1">
+    <a id="top"></a>
+
+    <p></p>
+
+    <div class="present" style="text-align: center;">
+      <h1>Abums</h1>
+    </div>
+    <hr>
+
+
+
+
+    <div class="module">
+
+      <header>
+        <h1>
+          Ed Sheeran
+        </h1>
+      </header>
+    </div>
+
+    <!-- <h1>vcdsvcgs</h1>
+<h1>cdhcbhskkckcns</h1>
+<h1>bcdskalmxkdncsj</h1>
+<h1>bcdsk sdjncnsklc</h1>
+<h1>bchdsbcncks</h1>
+<h1>bhdsjbc<br>cndjskskdcsnc<br>bcdskcjs<br>bcdsibj</h1>   -->
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('Divide')}}">
+            <!-- -->
+            <img src="https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b>&divide;(Deluxe) </b><br />
+                  <b>16 </b> Songs<br />
+                  <b>2017</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Plus')}}">
+            <img
+              src="https://cdn.apollo.audio/one/media/6386/130a/2077/f705/3c5f/5c9d/ed-sheeran-debut-album-plus-+.jpg?quality=80&format=jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>+</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2011</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('multiply')}}">
+            <img src="https://i.scdn.co/image/ab67616d0000b273407981084d79d283e24d428e"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>&times;(Wembley Edition)</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2014</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('No6_Collaborations')}}">
+            <img
+              src="https://cdn.apollo.audio/one/media/6386/2a6a/49f1/0804/f3c6/6fbb/ed-sheeran-fourth-album-no-6-collaborations-project.jpeg?quality=80&format=jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>No.6 Collaborations Project</b><br />
+                  <b>15 </b> Songs<br />
+                  <b>2019</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('equal')}}">
+            <img
+              src="https://cdn.apollo.audio/one/media/6386/2fa1/df87/b004/f860/6cdb/ed-sheeran-fifth-album-equals.jpg?quality=80&format=jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>=</b><br />
+                  <b>14 </b>Songs<br />
+                  <b>2021</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+    </div>
+
+    <br>
+    <br>
+
+    <div class="module1">
+
+      <header>
+        <h1>
+          Taylor Swift
+        </h1>
+      </header>
+    </div>
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('fearless')}}">
+            <!-- -->
+            <img
+              src="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MTk0NDAyODA3ODI5MjQzMzk3/taylor-swift-albums-taylor-swift-fearless-taylors-version.webp"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b> Fearless </b><br />
+                  <b>26 </b>Songs<br />
+                  <b>2021</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Evermore')}}">
+            <img
+              src="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTk0NDAzMjA2OTkyNzY2NDY5/taylor-swift-albums-taylor-swift-evermore-album-cover.webp"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Evermore</b><br />
+                  <b>17 </b>Songs<br />
+                  <b>2021</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('i1989')}}">
+            <img
+              src="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_600/MTk0NDAyNjY1MDIxNTgwODA1/taylor-swift-1989-cover.webp"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>1989</b><br />
+                  <b>19 </b>Songs<br />
+                  <b>2014</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Red')}}">
+            <img
+              src="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTk0NDAzNTEyNzQwNzUwODUz/taylor-swift-albums-taylor-swift-red-taylors-version-album-cover.webp"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Red</b><br />
+                  <b>30 </b>Songs<br />
+                  <b>2021</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href=".{{url_for('Midnights')}}">
+            <img
+              src="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTk0NDAzNDcwNTk2Mzg0NDMz/taylor-swift-albums-taylor-swift-midnights-album-cover.webp"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Midnights</b><br />
+                  <b>13 </b>Songs<br />
+                  <b>2022</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+    </div>
+    <br>
+    <br>
+    <div class="module2">
+
+      <header>
+        <h1>
+          One Direction
+        </h1>
+      </header>
+    </div>
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('Midnight_memories')}}">
+            <!-- -->
+            <img src="https://i.scdn.co/image/ab67616d0000b2732f76b797c382bedcafdf45e1"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b> Midnight Memories </b><br />
+                  <b>18 </b>Songs<br />
+                  <b>2013</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Four')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/e/e8/One_Direction_-_Four.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Four</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2014</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Take_me_home')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Take me Home</b><br />
+                  <b>20 </b>Songs<br />
+                  <b>2012</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Up_All_night')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Up all Night</b><br />
+                  <b>18 </b>Songs<br />
+                  <b>2012</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+
+          <a href="{{url_for('Made_in_the_Am')}}">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/en/f/f4/One_Direction_-_Made_in_the_AM_%28Official_Album_Cover%29.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Made in Am</b><br />
+                  <b>17 </b>Songs<br />
+                  <b>2015</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+    </div>
+    <br>
+    <br>
+
+
+    <div class="module3">
+
+      <header>
+        <h1>
+          Justin Bieber
+        </h1>
+      </header>
+    </div>
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('Journals')}}">
+            <!-- -->
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Justin_Bieber_Journals.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b>Journals </b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2014</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Believe')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/0/01/Believe-JB-Album.jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Beleive</b><br />
+                  <b>13 </b>Songs<br />
+                  <b>2012</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="My_world">
+            <img src="https://upload.wikimedia.org/wikipedia/en/a/ab/Justin_Bieber_-_My_World.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>My World</b><br />
+                  <b>7 </b>Songs<br />
+                  <b>2009</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Purpose')}}">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Purpose</b><br />
+                  <b>19 </b>Songs<br />
+                  <b>2015</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+
+          <a href="{{url_for('Justice')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/0/08/Justin_Bieber_-_Justice.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Justice</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2021</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+    </div>
+    <br>
+    <br>
+
+    <div class="module4">
+
+      <header>
+        <h1>
+          Katy Perry
+        </h1>
+      </header>
+    </div>
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('one_of_the_boys')}}">
+            <!-- -->
+            <img src="https://upload.wikimedia.org/wikipedia/en/2/2b/Katy_Perry_-_One_of_the_Boys.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b>One of the Boys</b><br />
+                  <b>12 </b>Songs<br />
+                  <b>2008</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Prism')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Katy_Perry_-_Prism_cover.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Prism</b><br />
+                  <b>13</b>Songs<br />
+                      <b>2013</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Smile')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/8/82/Katy_Perry_-_Smile.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Smile</b><br />
+                  <b>12 </b>Songs<br />
+                  <b>2020</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Teenage_dream')}}">
+            <img src="https://i1.sndcdn.com/artworks-000241564597-rjt67l-t500x500.jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Teenage Dream</b><br />
+                  <b>17 </b>Songs<br />
+                  <b>2010</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+
+          <a href="{{url_for('witness')}}">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/en/9/9f/Katy_Perry_-_Witness_%28Official_Album_Cover%29.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Witness</b><br />
+                  <b>17 </b>Songs<br />
+                  <b>2017</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+    </div>
+    <br>
+    <br>
+
+    <div class="module5">
+
+      <header>
+        <h1>
+          Imagine Dragons
+        </h1>
+      </header>
+    </div>
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('Evolve')}}">
+            <!-- -->
+            <img src="https://upload.wikimedia.org/wikipedia/en/b/b5/ImagineDragonsEvolve.jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b>Evolve</b><br />
+                  <b>12 </b>Songs<br />
+                  <b>2017</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Mercury')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Imagine_Dragons_Mercury_album_cover_2022.webp"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Mercury-Acts(1&2)</b><br />
+                  <b>34 </b>Songs<br />
+                  <b>2022</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Night_Vision')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/Night_Visions_Album_Cover.jpeg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Night Visions</b><br />
+                  <b>14 </b>Songs<br />
+                  <b>2012</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Origins')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/9/95/Origins_cover.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Origins(Deluxe)</b><br />
+                  <b>15 </b>Songs<br />
+                  <b>2018</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+
+          <a href="{{url_for('SmokeMirrors')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/ce/Imagine_Dragons_-_Smoke_%2B_Mirrors.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Smoke + Mirrors(Deluxe)</b><br />
+                  <b>22 </b>Songs<br />
+                  <b>2015</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+    </div>
+    <br>
+    <br>
+
+    <div class="module6">
+
+      <header>
+        <h1>
+          Shawn Mendes
+        </h1>
+      </header>
+    </div>
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('Handwritten')}}">
+            <!-- -->
+            <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b>Handwritten(Deluxe)</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2015</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Illuminate')}}">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/en/d/d2/Illuminate_%28Official_Album_Cover%29_by_Shawn_Mendes.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Illuminate(Deluxe)</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2017</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('MTV_Unplugged')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/7/7a/Unplugged_by_Shawn_Mendes.jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>MTV Unplugged</b><br />
+                  <b>11 </b>Songs<br />
+                  <b>2017</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href=".{{url_for('Shawn_Mendess')}}">
+            <img src="https://mir-s3-cdn-cf.behance.net/projects/404/8c269580275741.Y3JvcCw4MDgsNjMyLDAsMA.jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Shawn Mendes(Deluxe)</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2019</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+
+          <a href="{{url_for('Wonder')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Shawn_Mendes_-_Wonder.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Wonder(Deluxe)</b><br />
+                  <b>16 </b>Songs<br />
+                  <b>2020</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+    </div>
+    <br>
+    <br>
+
+    <div class="module7">
+
+      <header>
+        <h1>
+          Lorde
+        </h1>
+      </header>
+    </div>
+
+    <div class="container2">
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+
+
+          <a href="{{url_for('Melodrama')}}">
+            <!-- -->
+            <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Lorde_-_Melodrama.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position:relative; display: inline-block;width:250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px;border-radius: 0 0 1000px 1000px;">
+
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;"> &divide;(Deluxe)</span> -->
+
+                  <b>Melodrama</b><br />
+                  <b>11 </b>Songs<br />
+                  <b>2017</b><br>
+                </p>
+              </div>
+            </a>
+          </a>
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+
+          <!--  -->
+          <a href="{{url_for('Pure_heroine')}}">
+            <img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81iBB1wmLfL._SY355_.jpg"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative; display: inline-block;width:250px;height: 30px;">
+              <!-- <span class="caption" style="color:whitesmoke;font-family: cursive; font-size: 25px;">Red(Deluxe)</span>    -->
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0 0 1000px 1000px;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Pure Heroine</b><br />
+                  <b>10 </b>Songs<br />
+                  <b>2013</b><br>
+                </p>
+              </div>
+            </a>
+
+            <!-- </a> -->
+        </div>
+      </div>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('Sunpower')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Lorde_-_Solar_Power.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Solar Power(Deluxe)</b><br />
+                  <b>14 </b>Songs<br />
+                  <b>2021</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="container3">
+      <p></p>
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+          <a href="{{url_for('te_Ao_Marama')}}">
+            <img src="https://i.scdn.co/image/ab67616d00001e0252c43a5bd02104fe06619069"
+              style="width:250px;height:250px;border-radius: 50%;">
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>Te Ao Mārama</b><br />
+                  <b>5 </b>Songs<br />
+                  <b>2021</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+      <p></p>
+
+      <div class="artist">
+        <div class="but">
+          <!-- <a style="position:retalive; display: inline-block;"> -->
+          <!--  -->
+
+          <a href="{{url_for('The_love_club_EP')}}">
+            <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Lorde_-_The_Love_Club_EP.png"
+              style="width:250px;height:250px;border-radius: 50%;">
+
+            <a style="position: relative;display: inline-block;width: 250px;height: 30px;">
+
+              <div
+                style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px; border-radius: 0px 0px 1000px 1000px ;">
+                <p style="font-family: 'Times New Roman', Times, serif; font-size: 21px; margin: 0;">
+                  <b>The Love Club Ep</b><br />
+                  <b>5 </b>Songs<br />
+                  <b>2013</b><br>
+                </p>
+              </div>
+            </a>
+            <!-- </a> -->
+        </div>
+      </div>
+
+
+
+    </div>
+    <br>
+    <br>
+
+
+
+
+
+
+    <span class="material-symbols-outlined" style="position: relative;left:1300px;bottom:1px;font-size: 15px;"><a
+        href="#" title="Back to Top">
+        arrow_upward
+      </a>
+    </span>
+
+
+
+
+
+
+
+
+
+
+</body>
+
+<footer>
+  <div class="footer-container">
+    <div class="footer-logo">
+      <a href="{{ url_for('home')}}">
+        <img
+          src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+          style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px"> </a>
+      <a href="{{ url_for('home')}}"
+        style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+        SonicSphere </a>
+    </div>
+    <div class="footer-links" style="position: relative;right: 150px;">
+      <ul>
+        <li><a href="{{ url_for('home')}}">Home</a></li>
+        <li><a href="{{ url_for('About')}}">About Us</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+        <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+      </ul>
+    </div>
+  </div>
+  <!-- <div class="footer-social" >
+        <ul>
+           <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+           <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+           <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+     </div> -->
+
+  <div class="footer-credits" style="position: relative;left: 200px;">
+    <p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+  </div>
+</footer>
+
+</html>

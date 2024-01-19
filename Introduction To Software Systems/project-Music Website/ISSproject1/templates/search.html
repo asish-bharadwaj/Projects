@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="{{ url_for('static' , filename='style.css') }}">
+  <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+  <title>
+    Sonic Sphere/Search
+  </title>
+  <link rel="icon" type="image/x-icon" href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+  <div class="navbar">
+    <div class="name">
+      <a href="{{ url_for('home')}}" style="position:relative;left:900px;top:20px;">Home</a>
+      <a href="{{ url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+      <a href="{{ url_for('Album')}}"  style="position:relative;left:900px;top:20px">Albums</a>
+      <a href="{{ url_for('Search')}}" class = "active" style="position: relative; left:900px; top:20px;">Search</a>
+      <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+
+      <a href="{{ url_for('ArtistSpotlight')}}" style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+      <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+      <a href="{{ url_for('About')}}" style="position:relative;left:900px;top: 20px;">About</a>
+    </div>
+    <a href="{{ url_for('home')}}">
+      <img
+        src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+        style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+    <a href="{{ url_for('home')}}"
+      style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+  </div>
+
+</head>
+
+
+<body>
+  <div class="container1">
+    <a id="top"></a>
+
+    <p></p>
+
+    <div class="present" style="text-align: center;">
+      <h1 id="demo"></h1> 
+      <!-- <h1>Search</h1> -->
+    </div>
+    <hr>
+    <br><br>
+    <div class = "box">            
+        <span class="material-symbols-outlined"><a class="search_icon" style="color: black !important; font-size: 30px; width: 24px; height: 24px;">search</a></span>
+        <form action="" role="search" >
+            <input  class="form_search" placeholder="What do you want to listen to?" >
+        </form>
+        <span class="material-symbols-outlined" ><a class="clear_icon" style="color: black !important; font-size: 30px; width: 24px; height: 24px;">close</a></span>
+    </div>
+    <br>
+    <div class="filters">
+      <span>Filters:</span>
+        <span class="slider">
+        <label for="duration-range">Maximum duration:</label>
+        <input type="range" id="duration-range" min="0" max="600" step="1" value="600">
+        <span class="duration">10:00</span>
+        <span class="material-symbols-outlined" ><a class="clear_durations" style="color: black !important;font-size: 20px; width: 24px; height: 24px; float: right;">close</a></span>
+        </span>
+      <span class="explicit">
+        <label for="explicitness">Include explicit results: </label>
+        <input type="checkbox" name="explicitness" id="explicitness">
+      </span>
+      <span class="material-symbols-outlined" ><a class="clearAll" style="color: antiquewhite !important;font-size: 20px; width: 24px; height: 24px; float: right;">close</a></span>
+    </div>
+    <div class="search_results"></div>
+  </div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+<footer>
+    <div class="footer-container">
+        <div class="footer-logo">
+            <a href="{{ url_for('home')}}">
+                <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                    style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px">
+            </a>
+            <a href="{{ url_for('home')}}"
+                style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+                SonicSphere </a>
+        </div>
+        <div class="footer-links" style="position: relative;right: 150px;">
+            <ul>
+                <li><a href="{{ url_for('home')}}">Home</a></li>
+                <li><a href="{{ url_for('About')}}">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+                <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- <div class="footer-social" >
+          <ul>
+             <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+          </ul>
+       </div> -->
+
+    <div class="footer-credits" style="position: relative;left: 200px;">
+        <p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+    </div>
+</footer>
+
+
+</html>

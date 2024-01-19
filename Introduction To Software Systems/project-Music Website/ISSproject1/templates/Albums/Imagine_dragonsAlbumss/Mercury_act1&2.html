@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="{{ url_for('static' , filename='style.css') }}">
+    <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <title>
+        Sonic Sphere/Imagine Dragons/Mercury Act 1&2
+    </title>
+    <link rel="icon" type="image/x-icon" href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+    <div class="navbar">
+    <div class="name">
+            <a href="{{url_for('home')}}" style="position:relative;left:900px;top:20px;">Home</a>
+            <a href="{{url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+            <a href="{{url_for('Album')}}" class="active" style="position:relative;left:900px;top:20px">Albums</a>
+            <a href="{{url_for('Search')}}" style="position: relative; left:900px; top:20px;">Search</a>
+            <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+            <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+                  <a href="{{url_for('ArtistSpotlight')}}"  style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+      <a href="{{url_for('About')}}" style="position:relative;left:900px;top: 20px;">About</a>
+        </div>
+        <a href="{{url_for('home')}}">
+            <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+        <a href="{{url_for('home')}}"
+            style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+    </div>
+
+</head>
+
+
+<body>
+    <div class="container1">
+        <a id="top"></a>
+
+        <p></p>
+
+        <div class="container11">
+
+            <p></p>
+            <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Imagine_Dragons_Mercury_album_cover_2022.webp"
+                style="width:270px;height: 270px;box-shadow: 0 4px 60px rgba(0,0,0,.5);">
+            <div class="parta">
+                <p> Album</p>
+                <div class="container10">
+                    <h1 style="font-size: 80px;"> Mercury</h1>
+                    <h1 style="font-size: 80px"> -Acts 1&2</h1>
+                </div>
+
+
+                <div class="container6" style="position: relative;bottom: 10px;">
+                    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBIWFRgSEhIZGBgYHBUZGBgZGBgYGBgYGRkZGRgYGBgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QGhISGjQsIyw0NDQxNDQ0PTE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDE0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAAAQIDBAUGBwj/xAA7EAABAwIEAwYEBQMCBwAAAAABAAIRAyEEEjFBBVGBBiJhcZHwMqHB0RMUUrHhB0JyI2IzU4KTorLx/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAECBAMF/8QAIhEBAQEBAAMAAgIDAQAAAAAAAAECEQMhMRJBBGETUXEi/9oADAMBAAIRAxEAPwDxlCChAJhJMIJBCQTUUimEimEDUd1JQKCQTSCaBlRCkVAIJwmEJBA0OQEOQMoQUIAKIUglzQSSQhAFCEiim1JyYSIQQQkhVEShBQiBNqSYQMJpBNRTawkwFe3Cu8PUR6hV0HGbR1W1oYouMOMx4COpIWdWxrOZWsq4ZzdpHMaLHK6nE8Oe5uc0HQYAeAW66ZtiOg81oK1N1w7XmdfIpnc0usXLHCaSYWmDUFNQKCxIJhICTZFNDlnYTBtcRncROgaAT16Lr8Fw/COIayiyLGS55fOvxEwOkDVY1uZazi6cG4c0L0zEcFoVbPpCSR3h3XA6CSPquW4t2VqUzNPvt70zALY/f35qZ8ub6a14tRzgQNVJ7C2xEe7qA1Xo8zCAgoRDSKaRRQEFAQUFaEQhEQQhCqBAQgIJBBQm03CirqFLmuu7O4dgcHZROsxK5ikRuYC6XgvEaYH4ZIkwAfNeHl7Y6vDyV6HgmCoCxwsRBGxB2hc52i7LTmewSSDPMu2d139VseH8Ro0R/rPyusPIreuxTHtDmGQuX3n3HVea9V4PjMM6m4teIPsgjwghUhdh/UDDBr84GpjrH2hccF341+WZXzt5/HVhqJUkitMm1W0GbqpquolS/CMyg666zhWEL2yz6dVyeHFwuw4G8sABtMdV4bdXik77dfwnhjt3SALHf/E+Cy+I4ARGX47dYssrglS1gts+mHnLt9RuvDnXRqyPD+1nAxT/ANVsiYzMMwLTLSdPJcqdV772y4Yx+He8tDoEmBqIN496LwI6rq8VtnK4fLJ3sDk0nIC9XkaRTSKKAgoCEEYQnCEFKEIVZCAhAQSTASVjB3TzkeijUXUw7ZZGF7tRjj+pv7hV0H2hW5iHsLW5jLYHMzYLzt/T1zP29M7TcHdXyVmEtIADsvlZy2PDuHVGBk1S4ZYcCN7XB28r+aOFY99Rgz0soy0++HAtdIg21EEehBW0eMrLHYrjtsnHd+Mt7HFdrOEurU6lUGG04ItmzPyju/7QQdfY8yC9Y4wXMw1arnOQseC0m2cuaymQOcz8vFeThdXgtuXL/Jkmpw0imkV7OYNVtI3VTVZT1UvxcsinVc0ghwEbLqeBsxGLJp0oDmjMZMWHJc42gNfI+i7b+loAxFQnQMA6k/ZeW7OddHjl7xg8N43iWV2sbWcAHBvwkguFssDXlG8+K9S4ZxA1RmgeMTFtwDceR0Wp4pwXDMqCtTZDiQ4wXATzgGFusG+GF03dsBAC8dWV7TNjF7X18uBrnctc1sCSXPs0AbkuOnivn14M31m86zvK+h+IYprQ2m4uGfutLdnkHLcGRvcctQvC+0jmnE1chJAIbJMklrQ1xJOplpvvqvbw39PHz45JWsSCEBezlNIppFAJpIQNCSEVQhCFWQhCEEk2mEkiVFZVB6yMM92dhbGYOaWl3wggyJHJYDDAlX0ng6rNjedPTuD1awYAym0tZ3Ghj7w22j4BtvM+a6H80Mk6fLn6LjOzuIwtNoLC5rjYy6QSNT4LcYLF/jv7s5GmXHQO5Acxa5XHue30M7npw/aXtDVqzhgQKLHOgAQXEE3cZvcmOi5sKVV0uLuZJ9SortzJJyPnb1dXtSSKE1URCmCooJhBtabxEkrO7NcSdRq5wX5Tmb3AM0uBAc0OBaY1uDotJTeCACVseGEB4GQvJgCC4Hplt6rys9Xr3xe2e3p2E4jTeGA1nl0BpFWGvOpBMAAmDtyC6RhhoG4nquKxPCqDqAfkfRqADLDnFv8AiWm1/BdDhsUG0mSbNaN5JhvPe/0XNY7OsXtJxunh6T6jnNNUCKTN8zg5rXxyEEk8gRuvFSug7dvf+dqh5uBTAGsA02uy+riuevv5+a6vHn8c/wDXD5t3Wuf6NJNIL0eKSRTSKBJpFCCSEkIKEIQqgQhCAJQhCDKY0FuukqgNQ1sz4XWXQAaZF/OfX3zU+NfRh8oIJLp5RI/eV3HBe09BjAx9Nw0ks73gcwMG3hK5jD1nOkFusmd99LA/xzVrcGD8LHAz+mREXsf3XlqS/Xti6nxoajYJHImPJVhbTiGCcw97obz1WucF6S9eWs2UkKIcguVTpvKgSgoVZTYthw/iBY4OGy1w1srWtnw97LOp363nVnx17u1j3gtg30kwAT811fZym95bUqGwggbSNJXnnDaTGRUcCYvl7p7u5MkEei6A8dr1qLmUstK3xNMujlrLZ5gLxuJ+nRnd+1pO3OIZUx1ZzDIljZF5LGNYY6tIWI3B53hrB8LSXXm/wjXmY9Vj4VmWoM7TLTZukv8A7RfaYPkF2HCcPSa3K0t7wbL3WL3AuJdGzZNh+lsGCZXt8kjnv/rVrjK1ItJG6oXSdoqdNpkGS74RuW2Gd3IEgwP5XOOaVYlhpFAQiEhBQgaEpQgpQhCqBCEFAIQgILqTVtOH4fOSMxFvVa2mtvwkNzgOdEry3fT3xJ10nBsFS/ubmI5ldjwihTLTDQCOQAXJYWiWkQ4HMI/ldVwel3Za7Tbn09Fza9u3HqNL2q4aHsloEgmbajUTz0+a8xrU8ri07L2TE3sREryfjrQK9QDSR/6tXp4NfY5/5WfmmuhGVNDSulyK3CLJLIrNtPJY4VEwFZTsbCTyVYWfgWd5vRZ1eRrM7eN1wrCvqMIcyc0CA2PLz6qqjw+rReQ+m8NMiYA18SL+oXX8FY4RaBaF2uGotfSLKjQ4HmOa5f8ALe12/wCGcnt4jjarHd2+dpIEiJHIEezI8Zx6eIqC4OUn1j6Le9vOD/l6rXM+F4N9w4HQ+MHquae+86z08104s1mWOTebnVlXsOcy4yTqTc9SpOwsmG33VVI5tLHbxH3W+7L46mx7/wARocHgNmxgTJj5ei0zPbm6lIg6Ktd/2j4Th8mei4fUHxXEYmlB+ikqWcYySZSVQ0IQgpQhCqBEIQEAraTQdfXkqyrKJE35EeoUqz6m3SVY0u2keZBBUsPFwfFXhoiyza9JG34DQxFRr30z/wAIEkEk6C8DfyUcJxHEl4ANRzc0FrHBmnMxbqV0f9OGQ17hcum3ICJPjYFdOeCYR7vxWsa0gnNpqNYHOy57qTV9OqZtzL1rcJXc5pzZxEWfBe2Nsws4eIK4vtngaVPK5oJe853PLjeQZYG6ANht9TPr6Nj6lPJFPXSTe/0XmHbZ7RiDSYSRTBFzMFz3VIBm4AeB0KeHt16Xz8mPbnSUNKgmF1uBkOPdKxgrS6yqQMLOw+Ii8bDe9gB9FhsCy6VBZ1z9tY7+nadmOOPqVGUQ0k94idbNn6Fbnh/bprXfhCg57pggWvv6LlexDwzG0id3QfAe5Xa4rshQfWNTujM4uc1wJAcYkiCNTe83XLqYl9u3F1rLUduqgrYZtZrSAx7cwMGA4WNrESB6rzd3KbSY8l7Px7g1NmFdRaSQ807zLr1G6Eze5XlvaDDsp1cjGhuVozBrnPEkktMuJMluUna+g0Xp4dTnHj583v5NYwkm3Kyto4gtGcRPynyVDHXlQYe6R5fVdDmZ3595F3G5n36qt9fNY9D9FhSmXJw6tKSJQoCEIQgpQhCqBCEIBAQhBkUnSsnN3YJhYVMwsmZGqxqPXN9N52eZWDmhlVzM4dGVueIIvGhOvovRGNDSXMqZ8wBdoDmgSYFr6+crzjgX4eYNqCqZNw14a0cjrK7BjMjw5lR72PiQ8y5pAt3oGYRzuufyfXZ4vWYyuIV202ue7RneMakC8DzgryriWLdVq1KztXuc4+GYzHTRd92jealKtkNmNlx8SR3fSSei83K9PBn1a8P5WrbJ+iQhAXu5U4solS2UEVNhutnS0WqBWX+MS2BqsanW8a42HDsQ9lXMwgRcuOgHj8l65wzEvrUxWzMeCXtdkmxmxcHAEEiDGi8f4XhXPflzNAOuYug+Bjmu0w9DEYV7HMqNdTqEAlju6Sbw9htzgi68PLmV1+HVk/p0/GsQ1tIuqHuscxx5wx7XmPGy8e4nWz1H1C6S9xdP+V48AJjou07W8SDwWZoa7K0CRNrl30XD16bROW4Gt9L38/ei14c8nXl/I3+V5FFK9lWQRIUQVN9Qu1XQ5laChCIsGikqpVgRThCEKClCEKoEIQgEIQgvyWTovixToulKpS5LP9Vv+46zs3xFtJ7XANP6piMul10XEO0DXgU8O0anvDQeJPXRee8KogvAcDG3KfELtabAxrWtF42XN5JJXV49aueNh+RBw7qX6mkE7kka+e68pqNgkcrL0ri3F20aJcSM5BDG83c45DU/yF5tE2Xp4JeW1j+RZ2SK0BSLVEL3cqZ0UFI6KKAUwoKbdFKsZuDLZlziPI6+C6yrxNmRjaeYMbc5nEuLhyPnIXFU6LjZu62GJa1gDM2Z/wDdBlrR+kf7uZ+9sazNWPXO7mUsTinPcXO8QByHJYtQkguJ11HomTspm0H+VuTjzttYB1SlbHMzdgPmMvoQVX+WYdCR1DvsqnGEhZpwJ/tcOoI+6oq0HN+IddR6oitoVig1SUU0JShBUhCFUCEIhABCscy0qIaopSr24i0EKttOUCmdIS8qzs+MzD4trSDdbUdpSAcrJdoC42HjA19QueNNTazos3Ob9am9T4sxOIfUdne4ucdPsBsEnMgeJU2MgSPeqhibBo6q/wBROfuoPFlUWq06qYbZVOMYlJXupclU5hCdSxFAKFJhgj6iR6Kouo1XDQ/wgPE6oxbMrjyIDhGkOAcI8LrHU4trIL+Sg8281XmtCbyqi52gPgoZriFLN3UqDbzyRWXTq/LVZDXgiD/BHitZQdc+IKv/ABIGbkB9kOrqmEaZDbH5H7LBWwL5AcD/APFi1qerhpqeu/koqhCaEVUgIQFWDVrWTCgrcM68KVqMlzRlPkffyWGNFluf3Y8Y+R+6xALFSGkmm3UK9sH0CoiynRddKQONlAIe7RDCqq1r7eZVeIdLvKAjkqnG6kS1MnvFX0dBPvcrEcblXtf+31SkrKo7uI8h+yycRhhltrBcfoOt+nksVj+egUzVLrCcurj+o8hyi/zU432caxwgqKvxI72n03VC28l+IrF0TaBAA2EkxJudd9oVCEIBAQhBYQdFaBAPkf2UWpk2PkiqWugyskN7pHgfusRZdPQeQQKg4xbUGyyGgG7d9vosPDugxzV4aRIB8em8IJ/l2/p/8ihUW5oQYyAhARE2lDXQZCGqLtVFWOf76JE2UHI2Q6vboUNFkUt1Jmh97I0pqJtKjU1Q0oiybql2qsKg/VIUnaqbSoFIKoyAZtoN1m06hywBA229/wArBpn0WQDaZWasY1fUe91SrsRr0VK0lCEIRAgBCk0XQWtQTZ3T90yky8+Ij7IqhZFN4sFQ4RZAKIbNQtpTblh+40nQcy5akLZGqC7KXZRYC035n7osZH553I/9v+UKP4LP+Y/30Qo006AhCrCxonVSrUyLqLDzFllNbYjY+nzUak6wtkk3CLJKsr6Wik06qumbKTio1FLihqRTaqiwlJwUZU5F/fNRVaQTOybFWV1NvgsgMi0a/sq6fn7+ytcba6/tuVluMKubqtW4jVVLTAQhAQNrZVuSN1WOQQWncFBfl3F+qgR7lDaTvL3ySc1o3lFReL+yoJuKSIkwXClVN/T53PzKi1xBBGyRugl+I7mUKOVCBICEILKeiy8NoUIWa1lh1dSoIQtM1bTQfuhCjSoptQhVDKRQhQM6DqooQqMimsl2o/6UkLLU+MXE6qlCFpihCEIJDUdFsmaD3sUIRYxamqx3aoQiIlCEIBAQhBYhCEV//9k="
+                        style="border-radius: 50%;width:40px;height:40px; ">
+
+                    <a href="{{url_for('Imagine_dragons')}}"
+                        style="color:antiquewhite;position:relative;top:13px;right:59px;">Imagine Dragons</a>
+                    <span class="container7" style="position: relative;right: 116px;">
+                        2022
+                    </span>
+                    <span class="container7" style="position: relative;right: 161px;">
+                        34 songs,1 hr 43 min
+                    </span>
+                </div>
+
+
+
+            </div>
+
+
+        </div>
+
+        <!-- <hr style="position:relative;top:400px;height: 0.245px;background-color: whitesmoke; border: none;margin: 10px 0; "> -->
+        <div class="container8">
+            <p></p>
+            <p>#</p>
+            <p>Title</p>
+            <span class="material-symbols-outlined" style="position:relative; top:10px; font-size: 20px;">
+                schedule
+            </span>
+
+
+        </div>
+        <hr style="width:1200px;position: relative;top:370px">
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>1</p>
+            <p>Enemy(with JID)- from Arcane Legue of Legends</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="106">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>2:53</p>
+        </div>
+
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>2</p>
+            <p>Bones</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="107">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>2:45</p>
+        </div>
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>3</p>
+            <p>Thunder</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="108">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>3:08</p>
+        </div>
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>4</p>
+            <p>#1</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="109">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>3:25</p>
+        </div>
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>5</p>
+            <p>No Time For Toxic People</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="110">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>3:27</p>
+        </div>
+
+
+
+        <br>
+        <br>
+        <footer style="position: relative;top:350px">
+            <div class="footer-container">
+                <div class="footer-logo">
+                    <a href="{{ url_for('home')}}">
+                        <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                            style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px">
+                    </a>
+                    <a href="{{ url_for('home')}}"
+                        style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+                        SonicSphere </a>
+                </div>
+                <div class="footer-links" style="position: relative;right: 150px;">
+                    <ul>
+                        <li><a href="{{url_for('home')}}">Home</a></li>
+                        <li><a href="{{url_for('About')}}">About Us</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+                        <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- <div class="footer-social" >
+              <ul>
+                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+              </ul>
+           </div> -->
+
+            <div class="footer-credits" style="position: relative;left: 200px;">
+                <p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+            </div>
+        </footer>
+
+</body>
+
+</html>

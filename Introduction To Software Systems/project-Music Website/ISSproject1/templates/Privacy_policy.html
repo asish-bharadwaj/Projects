@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>SonicSphere- Privacy policy</title>
+   <link rel="icon" type="image/x-icon" href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="{{ url_for('static' , filename='style.css') }}">
+   <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+   <link rel="stylesheet"
+       href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+
+   <!-- Navigation menu here -->
+   <div class="navbar">
+      <div class="name">
+      <a href="{{ url_for('home')}}" style="position:relative;left:900px;top:20px;">Home</a>
+      <a href="{{ url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+      <a href="{{ url_for('Album')}}"  style="position:relative;left:900px;top:20px">Albums</a>
+      <a href="{{ url_for('Search')}}" style="position: relative; left:900px; top:20px;">Search</a>
+      <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+
+      <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+            <a href="{{ url_for('ArtistSpotlight')}}" style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+<a href="{{ url_for('About')}}" class="active" style="position:relative;left:900px;top: 20px;">About</a>
+      </div>
+      <a href="{{ url_for('home')}}">
+         <img
+            src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+            style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+      <a href="{{ url_for('home')}}"
+         style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+   </div>
+
+</head>
+
+<body>
+   <div class="container1">
+      <main>
+
+         <h1>Privacy Policy</h1>
+
+         <h3>Effective date: [date]</h3>
+
+         <p> At Sonicsphere, we value your privacy and are committed to protecting it. This privacy policy explains how
+            we collect, use, and share information when you use our website [website URL]<br> and related services.</p>
+
+         <h2>What Information We Collect:</h2>
+
+         <p> We collect information that you provide to us, such as your name, email address, and other contact
+            information, when you sign up for an account on our website or use our services. We <br>may also collect
+            non-personal information about your device, such as your IP address and browser type, to help us improve our
+            website and provide a better user experience.</p>
+
+         <h2> How We Use Your Information:</h2>
+
+         <p> We use the information we collect to provide and improve our services, respond to your inquiries, and send
+            you updates and promotional materials. We may also use your information to <br>enforce our policies and
+            comply with legal requirements.</p>
+
+         <h2> How We Share Your Information:</h2>
+
+         <p> We do not share your personal information with third parties, except as necessary to provide our services
+            or comply with legal requirements. We may share non-personal information with <br>third-party analytics and
+            advertising providers to help us improve our website and provide targeted advertising.</p>
+
+         <h2> Your Choices:</h2>
+
+         <p> You may choose not to provide personal information to us, but this may limit your ability to use our
+            services. You may also opt out of receiving promotional communications from us by <br>following the
+            instructions in those communications.</p>
+
+         <h2> Security:</h2>
+
+         <p> We take reasonable measures to protect your information from unauthorized access, disclosure, alteration,
+            or destruction. However, no method of transmission over the Internet or electronic<br> storage is completely
+            secure, and we cannot guarantee absolute security.</p>
+
+         <h2> Changes to this Privacy Policy:</h2>
+
+         <p> We may update this privacy policy from time to time. The date of the latest revision will be indicated at
+            the top of this page. We encourage you to review this policy periodically.</p>
+
+
+         <h2>Contact Us:</h2>
+         <p> If you have any questions or concerns about this privacy policy or our practices, please contact us at :
+         </p>
+         <ul>
+            <li>Email: <a href="mailto:sonicsphererates@gmail.com  " style="color: antiquewhite;">sonicsphererates@gmail.com  </a></li>
+            <li>Twitter: <a href="https://twitter.com/@spheresonicrate" style="color: antiquewhite;" target="_blank">@spheresonicrate</a></li>
+      </main>
+      <footer>
+         <!-- Footer content here -->
+         <div class="footer-container">
+            <div class="footer-logo">
+               <a href="{{ url_for('home')}}">
+                  <img
+                     src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                     style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px">
+               </a>
+               <a href="{{ url_for('home')}}"
+                  style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+                  SonicSphere </a>
+            </div>
+            <div class="footer-links" style="position: relative;right: 150px;">
+               <ul>
+                  <li><a href="{{ url_for('home')}}">Home</a></li>
+                  <li><a href="{{ url_for('About')}}">About Us</a></li>
+                  <li><a href="#">Contact</a></li>
+                  <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+                  <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+               </ul>
+            </div>
+         </div>
+         <!-- <div class="footer-social" >
+           <ul>
+              <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+           </ul>
+        </div> -->
+
+         <div class="footer-credits" style="position: relative;left: 200px;">
+            <p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+         </div>
+      </footer>
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+{"name": "asish bharadwaj chodavarapu", "mail": "asish.chodavarapu@students.iiit.ac.in", "password": "asish@1019"}
+{"name": "vuppala viswanath", "mail": "vuppala.viswanath@students.iiit.ac.in", "password": "viswanath@1680"}
+{"name": "vellanki chetan krishna", "mail": "vellanki.krishna@students.iiit.ac.in", "password": "vellanki@2000s"}
+{"name": "vellanki chetan krishna", "mail": "vellanki.krishna@students.iiit.ac.in", "password": "vellanki@2000s"}
+{"name": "vellanki chetan krishna", "mail": "vellanki.krishna@students.iiit.ac.in", "password": "vellanki@2000s"}

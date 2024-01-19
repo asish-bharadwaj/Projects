@@ -1,0 +1,1000 @@
+Avatar--Action,Adventure,Fantasy--$2,922,917,914
+Avengers: Endgame--Action,Adventure,Drama--$2,797,501,328
+Titanic--Drama,Romance--$2,201,647,264
+Star Wars: Episode VII - The Force Awakens--Action,Adventure,Sci-Fi--$2,069,521,700
+Avengers: Infinity War--Action,Adventure,Sci-Fi--$2,048,359,754
+Spider-Man: No Way Home--Action,Adventure,Fantasy--$1,916,306,995
+Jurassic World--Action,Adventure,Sci-Fi--$1,671,537,444
+The Lion King--Animation,Adventure,Drama--$1,663,075,401
+The Avengers--Action,Sci-Fi--$1,518,815,515
+Avatar: The Way of Water--Action,Adventure,Fantasy--$1,516,558,728
+Fast & Furious 7--Action,Crime,Thriller--$1,515,341,399
+Top Gun: Maverick--Action,Drama--$1,488,732,821
+Frozen II--Animation,Adventure,Comedy--$1,450,026,933
+Avengers: Age of Ultron--Action,Adventure,Sci-Fi--$1,402,809,540
+Black Panther--Action,Adventure,Sci-Fi--$1,382,248,826
+Harry Potter and the Deathly Hallows: Part 2--Adventure,Family,Fantasy--$1,342,359,942
+Star Wars: Episode VIII - The Last Jedi--Action,Adventure,Fantasy--$1,332,698,830
+Jurassic World: Fallen Kingdom--Action,Adventure,Sci-Fi--$1,310,466,296
+Frozen--Animation,Adventure,Comedy--$1,281,508,100
+Beauty and the Beast--Adventure,Family,Fantasy--$1,264,435,322
+Incredibles 2--Animation,Action,Adventure--$1,243,089,244
+The Fate of the Furious--Action,Crime,Thriller--$1,236,005,118
+Iron Man Three--Action,Adventure,Sci-Fi--$1,214,811,252
+Minions--Animation,Adventure,Comedy--$1,159,444,662
+Captain America: Civil War--Action,Sci-Fi--$1,153,337,496
+Aquaman--Action,Adventure,Fantasy--$1,148,528,393
+The Lord of the Rings: The Return of the King--Action,Adventure,Drama--$1,146,457,748
+Spider-Man: Far from Home--Action,Adventure,Comedy--$1,131,927,996
+Captain Marvel--Action,Adventure,Sci-Fi--$1,128,462,972
+Transformers: Dark of the Moon--Action,Adventure,Sci-Fi--$1,123,794,079
+Jurassic Park--Action,Adventure,Sci-Fi--$1,109,802,321
+Skyfall--Action,Adventure,Thriller--$1,108,569,499
+Transformers: Age of Extinction--Action,Adventure,Sci-Fi--$1,104,054,072
+The Dark Knight Rises--Action,Drama,Thriller--$1,081,169,825
+Joker--Crime,Drama,Thriller--$1,074,458,282
+Star Wars: Episode IX - The Rise of Skywalker--Action,Adventure,Fantasy--$1,074,149,279
+Toy Story 4--Animation,Adventure,Comedy--$1,073,394,593
+Toy Story 3--Animation,Adventure,Comedy--$1,066,970,811
+Pirates of the Caribbean: Dead Man's Chest--Action,Adventure,Fantasy--$1,066,179,747
+Rogue One--Action,Adventure,Sci-Fi--$1,058,682,142
+Aladdin--Adventure,Comedy,Family--$1,050,693,953
+Pirates of the Caribbean: On Stranger Tides--Action,Adventure,Fantasy--$1,045,713,802
+Despicable Me 3--Animation,Adventure,Comedy--$1,034,800,131
+Finding Dory--Animation,Adventure,Comedy--$1,028,570,942
+Star Wars: Episode I - The Phantom Menace--Action,Adventure,Fantasy--$1,027,082,707
+Alice in Wonderland--Adventure,Family,Fantasy--$1,025,468,216
+Zootopia--Animation,Adventure,Comedy--$1,024,121,104
+Harry Potter and the Sorcerer's Stone--Adventure,Family,Fantasy--$1,023,842,938
+The Hobbit: An Unexpected Journey--Adventure,Fantasy--$1,017,030,651
+The Dark Knight--Action,Crime,Drama--$1,006,234,167
+Jurassic World: Dominion--Action,Adventure,Sci-Fi--$1,001,978,080
+Jumanji: Welcome to the Jungle--Action,Adventure,Comedy--$995,339,117
+Harry Potter and the Deathly Hallows: Part 1--Adventure,Family,Fantasy--$977,070,383
+Despicable Me 2--Animation,Adventure,Comedy--$970,766,005
+The Lion King--Animation,Adventure,Drama--$968,511,805
+The Jungle Book--Adventure,Drama,Family--$966,554,929
+The Hobbit: The Battle of the Five Armies--Adventure,Fantasy--$962,201,338
+Pirates of the Caribbean: At World's End--Action,Adventure,Fantasy--$960,996,492
+The Hobbit: The Desolation of Smaug--Fantasy--$959,027,992
+Doctor Strange in the Multiverse of Madness--Action,Adventure,Fantasy--$955,775,804
+The Lord of the Rings: The Two Towers--Action,Adventure,Drama--$947,944,270
+Harry Potter and the Order of the Phoenix--Action,Adventure,Family--$942,256,902
+Finding Nemo--Animation,Adventure,Comedy--$940,352,645
+Minions: The Rise of Gru--Animation,Adventure,Comedy--$939,628,210
+Harry Potter and the Half-Blood Prince--Action,Adventure,Family--$934,504,700
+Shrek 2--Animation,Adventure,Comedy--$928,760,770
+Harry Potter and the Chamber of Secrets--Adventure,Family,Fantasy--$925,054,421
+Bohemian Rhapsody--Biography,Drama,Music--$910,809,311
+Chang jin hu--Action,Drama,History--$902,548,476
+The Lord of the Rings: The Fellowship of the Ring--Action,Adventure,Drama--$898,204,420
+Harry Potter and the Goblet of Fire--Adventure,Family,Fantasy--$896,815,106
+Spider-Man 3--Action,Adventure,Sci-Fi--$894,983,373
+The Secret Life of Pets--Animation,Adventure,Comedy--$894,328,469
+Ice Age: Dawn of the Dinosaurs--Animation,Adventure,Comedy--$886,686,817
+Spectre--Action,Adventure,Thriller--$880,705,312
+Spider-Man: Homecoming--Action,Adventure,Sci-Fi--$880,166,924
+Ice Age: Continental Drift--Animation,Adventure,Comedy--$877,244,782
+Batman v Superman: Dawn of Justice--Action,Adventure,Sci-Fi--$873,637,528
+Zhan lang II--Action,Adventure,Drama--$870,325,439
+Star Wars: Episode III - Revenge of the Sith--Action,Adventure,Fantasy--$868,390,560
+The Hunger Games: Catching Fire--Action,Adventure,Sci-Fi--$865,011,746
+Guardians of the Galaxy Vol. 2--Action,Adventure,Comedy--$863,756,051
+Inside Out--Animation,Adventure,Comedy--$858,848,019
+Venom--Action,Adventure,Sci-Fi--$856,085,151
+Thor: Ragnarok--Action,Adventure,Comedy--$853,983,879
+The Twilight Saga: Breaking Dawn - Part 2--Adventure,Drama,Fantasy--$848,853,382
+Inception--Action,Adventure,Sci-Fi--$836,848,102
+Transformers: Revenge of the Fallen--Action,Adventure,Sci-Fi--$836,303,693
+Spider-Man--Action,Adventure,Sci-Fi--$825,025,036
+Black Panther: Wakanda Forever--Action,Adventure,Drama--$823,221,911
+Wonder Woman--Action,Adventure,Fantasy--$822,854,286
+Ni hao, Li Huanying--Comedy,Romance--$822,009,764
+Independence Day--Action,Adventure,Sci-Fi--$817,400,891
+Fantastic Beasts and Where to Find Them--Adventure,Family,Fantasy--$814,044,001
+Shrek the Third--Animation,Adventure,Comedy--$813,367,380
+Coco--Animation,Adventure,Comedy--$807,817,888
+Jumanji: The Next Level--Action,Adventure,Comedy--$801,693,929
+Harry Potter and the Prisoner of Azkaban--Adventure,Family,Fantasy--$797,660,766
+Pirates of the Caribbean: Dead Men Tell No Tales--Action,Adventure,Fantasy--$794,881,442
+E.T. the Extra-Terrestrial--Adventure,Family,Sci-Fi--$792,910,554
+Mission: Impossible - Fallout--Action,Adventure,Thriller--$791,657,398
+2012--Action,Adventure,Sci-Fi--$791,217,826
+Indiana Jones and the Kingdom of the Crystal Skull--Action,Adventure--$790,653,942
+Spider-Man 2--Action,Adventure,Sci-Fi--$788,976,453
+Furious 6--Action,Adventure,Crime--$788,680,968
+Deadpool 2--Action,Adventure,Comedy--$785,896,609
+Deadpool--Action,Comedy--$782,836,791
+Star Wars--Action,Adventure,Fantasy--$775,398,007
+No Time to Die--Action,Adventure,Thriller--$774,153,007
+Interstellar--Adventure,Drama,Sci-Fi--$773,867,216
+Guardians of the Galaxy--Action,Adventure,Comedy--$773,350,147
+The Batman--Action,Crime,Drama--$770,945,583
+Thor: Love and Thunder--Action,Adventure,Comedy--$760,928,081
+Fast & Furious Presents: Hobbs & Shaw--Action,Adventure,Thriller--$760,732,926
+The Da Vinci Code--Mystery,Thriller--$760,006,945
+Maleficent--Adventure,Family,Fantasy--$758,411,779
+The Amazing Spider-Man--Action,Adventure,Sci-Fi--$757,930,663
+The Hunger Games: Mockingjay - Part 1--Action,Adventure,Sci-Fi--$755,356,711
+Shrek Forever After--Animation,Adventure,Comedy--$752,600,867
+Gravity--Drama,Sci-Fi,Thriller--$748,049,949
+Madagascar 3: Europe's Most Wanted--Animation,Adventure,Comedy--$746,921,274
+Suicide Squad--Action,Adventure,Fantasy--$746,846,894
+X-Men: Days of Future Past--Action,Adventure,Sci-Fi--$746,045,700
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe--Adventure,Family,Fantasy--$745,013,115
+Monsters University--Animation,Adventure,Comedy--$743,559,645
+The Matrix Reloaded--Action,Sci-Fi--$741,847,937
+Up--Animation,Adventure,Comedy--$735,099,102
+Ne Zha zhi mo tong jiang shi--Animation,Action,Adventure--$726,264,074
+F9--Action,Crime,Thriller--$726,229,501
+Captain America: The Winter Soldier--Action,Adventure,Sci-Fi--$714,421,503
+The Twilight Saga: Breaking Dawn - Part 1--Adventure,Drama,Fantasy--$712,205,856
+The Twilight Saga: New Moon--Adventure,Drama,Fantasy--$711,025,481
+Dawn of the Planet of the Apes--Action,Adventure,Drama--$710,644,566
+Transformers--Action,Adventure,Sci-Fi--$709,709,780
+The Amazing Spider-Man 2--Action,Adventure,Sci-Fi--$708,982,323
+It--Horror--$701,842,551
+Liu lang di qiu--Action,Adventure,Sci-Fi--$699,992,512
+The Twilight Saga: Eclipse--Action,Adventure,Drama--$698,509,825
+Mission: Impossible - Ghost Protocol--Action,Adventure,Thriller--$694,713,380
+Mamma Mia!--Comedy,Musical,Romance--$694,476,782
+The Hunger Games--Action,Adventure,Sci-Fi--$694,394,724
+Tang ren jie tan an 3--Action,Adventure,Comedy--$686,257,563
+Mission: Impossible - Rogue Nation--Action,Adventure,Thriller--$682,716,636
+Forrest Gump--Drama,Romance--$678,226,465
+Doctor Strange--Action,Adventure,Fantasy--$677,796,076
+The Sixth Sense--Drama,Mystery,Thriller--$672,806,432
+Man of Steel--Action,Adventure,Sci-Fi--$668,045,518
+Ice Age: The Meltdown--Animation,Adventure,Comedy--$667,094,506
+Kung Fu Panda 2--Animation,Action,Adventure--$665,692,281
+Moana--Animation,Adventure,Comedy--$665,069,139
+Justice League--Action,Adventure,Fantasy--$657,926,987
+Big Hero 6--Animation,Action,Adventure--$657,869,686
+Fantastic Beasts: The Crimes of Grindelwald--Adventure,Family,Fantasy--$654,855,901
+Pirates of the Caribbean: The Curse of the Black Pearl--Action,Adventure,Fantasy--$654,264,015
+Men in Black 3--Action,Adventure,Comedy--$654,213,485
+Star Wars: Episode II - Attack of the Clones--Action,Adventure,Fantasy--$653,779,970
+The Hunger Games: Mockingjay - Part 2--Action,Adventure,Sci-Fi--$653,428,261
+Thor: The Dark World--Action,Adventure,Fantasy--$644,783,140
+Sing--Animation,Comedy,Family--$634,338,384
+Kung Fu Panda--Animation,Action,Adventure--$632,083,197
+The Incredibles--Animation,Action,Adventure--$631,607,053
+The Martian--Adventure,Drama,Sci-Fi--$630,620,818
+Hancock--Action,Comedy,Drama--$629,443,428
+Chang jin hu zhi shui men qiao--Action,Drama,History--$626,571,697
+Fast Five--Action,Crime,Thriller--$626,137,675
+Iron Man 2--Action,Sci-Fi--$623,933,331
+Ratatouille--Animation,Adventure,Comedy--$623,726,085
+Ant-Man and the Wasp--Action,Adventure,Comedy--$622,674,139
+How to Train Your Dragon 2--Animation,Action,Adventure--$621,537,519
+Logan--Action,Drama,Sci-Fi--$619,179,950
+The Lost World: Jurassic Park--Action,Adventure,Sci-Fi--$618,638,999
+Casino Royale--Action,Adventure,Thriller--$616,505,162
+The Passion of the Christ--Drama--$612,054,506
+Life of Pi--Adventure,Drama,Fantasy--$609,016,565
+Transformers: The Last Knight--Action,Adventure,Sci-Fi--$605,425,157
+Madagascar: Escape 2 Africa--Animation,Adventure,Comedy--$603,900,354
+War of the Worlds--Action,Adventure,Sci-Fi--$603,873,119
+Tangled--Animation,Adventure,Comedy--$592,462,816
+Ready Player One--Action,Adventure,Sci-Fi--$592,241,728
+Quantum of Solace--Action,Adventure,Mystery--$589,580,482
+Men in Black--Action,Adventure,Comedy--$589,390,539
+The Croods--Animation,Action,Adventure--$587,235,983
+The Hangover Part II--Comedy--$586,764,305
+Iron Man--Action,Adventure,Sci-Fi--$585,796,247
+I Am Legend--Action,Drama,Horror--$585,410,052
+Monsters, Inc.--Animation,Adventure,Comedy--$579,707,738
+Hong hai xing dong--Action,Drama,Thriller--$579,330,426
+Night at the Museum--Adventure,Comedy,Family--$574,481,229
+Fifty Shades of Grey--Drama,Romance,Thriller--$569,651,467
+Kong: Skull Island--Action,Adventure,Fantasy--$566,652,812
+The Smurfs--Animation,Adventure,Comedy--$563,749,323
+Cars 2--Animation,Adventure,Comedy--$559,852,396
+King Kong--Action,Adventure,Drama--$556,906,378
+Puss in Boots--Animation,Adventure,Comedy--$554,987,477
+Mei ren yu--Comedy,Drama,Fantasy--$553,810,228
+Armageddon--Action,Adventure,Sci-Fi--$553,709,788
+The Day After Tomorrow--Action,Adventure,Sci-Fi--$552,639,571
+Ted--Comedy--$549,368,315
+American Sniper--Action,Biography,Drama--$547,459,020
+Mission: Impossible II--Action,Adventure,Thriller--$546,388,108
+Tang ren jie tan an 2--Action,Comedy,Mystery--$544,185,156
+X-Men: Apocalypse--Action,Adventure,Sci-Fi--$543,934,105
+Sherlock Holmes: A Game of Shadows--Action,Adventure,Mystery--$543,848,418
+Despicable Me--Animation,Adventure,Comedy--$543,157,985
+Cinderella--Adventure,Drama,Family--$542,358,331
+Madagascar--Animation,Adventure,Comedy--$542,063,846
+World War Z--Action,Adventure,Horror--$540,455,876
+Brave--Animation,Adventure,Comedy--$538,983,207
+The Empire Strikes Back--Action,Adventure,Fantasy--$538,375,067
+The Simpsons Movie--Animation,Adventure,Comedy--$536,414,293
+The Revenant--Action,Adventure,Drama--$532,950,503
+The Meg--Action,Horror,Sci-Fi--$530,517,320
+Ralph Breaks the Internet--Animation,Adventure,Comedy--$529,323,962
+Hotel Transylvania 3: Summer Vacation--Animation,Adventure,Comedy--$528,583,774
+The Boss Baby--Animation,Adventure,Comedy--$527,965,936
+Dunkirk--Action,Drama,History--$527,016,307
+The Grinch--Animation,Comedy,Family--$526,760,632
+Godzilla--Action,Adventure,Sci-Fi--$524,976,069
+How to Train Your Dragon: The Hidden World--Animation,Action,Adventure--$524,580,592
+Sherlock Holmes--Action,Adventure,Mystery--$524,028,679
+Meet the Fockers--Comedy,Romance--$522,657,936
+WALL·E--Animation,Adventure,Family--$521,311,890
+Kung Fu Panda 3--Animation,Action,Adventure--$521,170,825
+Terminator 2: Judgment Day--Action,Sci-Fi--$520,881,154
+Ant-Man--Action,Comedy,Sci-Fi--$519,311,965
+Venom: Let There Be Carnage--Action,Sci-Fi,Thriller--$506,863,592
+Ghost--Drama,Fantasy,Romance--$505,703,557
+Aladdin--Animation,Adventure,Comedy--$504,050,219
+Gladiator--Action,Adventure,Drama--$503,162,313
+Rio 2--Animation,Adventure,Comedy--$498,781,117
+Troy--Drama--$497,409,852
+Toy Story 2--Animation,Adventure,Comedy--$497,375,381
+How to Train Your Dragon--Animation,Action,Adventure--$494,879,471
+Twister--Action,Adventure,Thriller--$494,580,615
+Oz the Great and Powerful--Adventure,Family,Fantasy--$493,311,825
+Clash of the Titans--Action,Adventure,Fantasy--$493,214,993
+Maleficent: Mistress of Evil--Adventure,Family,Fantasy--$491,730,089
+War for the Planet of the Apes--Action,Adventure,Drama--$490,719,763
+Shrek--Animation,Adventure,Comedy--$488,351,320
+Mr. & Mrs. Smith--Action,Comedy,Crime--$487,287,646
+Angels & Demons--Action,Mystery,Thriller--$485,930,816
+Teenage Mutant Ninja Turtles--Action,Adventure,Comedy--$485,004,754
+Bruce Almighty--Comedy,Fantasy--$484,592,874
+Rio--Animation,Adventure,Comedy--$483,866,772
+Saving Private Ryan--Drama,War--$482,349,603
+Rise of the Planet of the Apes--Action,Drama,Sci-Fi--$481,800,873
+Home Alone--Comedy,Family--$476,684,675
+Jaws--Adventure,Thriller--$476,512,065
+Hotel Transylvania 2--Animation,Adventure,Comedy--$475,186,706
+Star Wars: Episode VI - Return of the Jedi--Action,Adventure,Fantasy--$475,106,177
+Charlie and the Chocolate Factory--Adventure,Comedy,Family--$474,968,763
+Indiana Jones and the Last Crusade--Action,Adventure--$474,171,806
+San Andreas--Action,Adventure,Thriller--$474,009,154
+It Chapter Two--Drama,Fantasy,Horror--$473,122,525
+La La Land--Comedy,Drama,Music--$472,013,241
+Wreck-It Ralph--Animation,Adventure,Comedy--$471,222,889
+Godzilla vs. Kong--Action,Sci-Fi,Thriller--$470,116,094
+The Hangover--Comedy--$469,328,079
+Lucy--Action,Sci-Fi,Thriller--$469,058,574
+The Lego Movie--Animation,Action,Adventure--$468,266,122
+Bumblebee--Action,Adventure,Sci-Fi--$467,989,645
+Star Trek Into Darkness--Action,Adventure,Sci-Fi--$467,365,246
+The Matrix--Action,Sci-Fi--$467,222,728
+Pretty Woman--Comedy,Romance--$463,406,268
+Cars--Animation,Adventure,Comedy--$461,991,867
+Ba bai--Action,Drama,History--$461,421,559
+X-Men: The Last Stand--Action,Adventure,Sci-Fi--$460,435,291
+Du xing yue qiu--Comedy,Sci-Fi--$460,237,662
+National Treasure: Book of Secrets--Action,Adventure,Mystery--$459,242,249
+Mission: Impossible--Action,Adventure,Thriller--$457,696,391
+300--Action,Drama--$456,082,343
+The Last Samurai--Action,Drama--$454,627,263
+Kimetsu no Yaiba: Mugen Ressha-Hen--Animation,Action,Adventure--$453,210,959
+Wo bu shi yao shen--Comedy,Drama--$451,183,391
+Ocean's Eleven--Crime,Thriller--$450,717,150
+Wo he wo de zu guo--Drama,History--$450,064,993
+Thor--Action,Fantasy--$449,326,618
+Pearl Harbor--Action,Drama,History--$449,220,945
+Tarzan--Animation,Adventure,Comedy--$448,191,819
+Men in Black II--Action,Adventure,Comedy--$445,135,288
+The Bourne Ultimatum--Action,Mystery,Thriller--$444,100,035
+The Mummy Returns--Action,Adventure,Fantasy--$443,280,904
+Alvin and the Chipmunks: The Squeakquel--Animation,Adventure,Comedy--$443,140,005
+Les Misérables--Drama,Musical,Romance--$442,299,309
+The Exorcist--Horror--$441,306,145
+Mrs. Doubtfire--Comedy,Drama--$441,286,195
+Terminator Genisys--Action,Adventure,Sci-Fi--$440,603,537
+Warcraft--Action,Adventure,Fantasy--$439,048,914
+A Star Is Born--Drama,Music,Romance--$436,233,122
+The Greatest Showman--Biography,Drama,Musical--$435,732,529
+Terminator 3: Rise of the Machines--Action,Sci-Fi--$433,371,112
+Pokémon: Detective Pikachu--Action,Adventure,Comedy--$433,230,304
+Shang-Chi and the Legend of the Ten Rings--Action,Adventure,Fantasy--$432,243,292
+Die Another Day--Action,Adventure,Thriller--$431,971,116
+The Secret Life of Pets 2--Animation,Adventure,Comedy--$431,058,415
+Cast Away--Adventure,Drama,Romance--$429,632,142
+Rampage--Action,Adventure,Sci-Fi--$428,028,233
+The King's Speech--Biography,Drama,History--$427,374,317
+The Matrix Revolutions--Action,Sci-Fi--$427,344,325
+The Intouchables--Biography,Comedy,Drama--$426,588,510
+Bad Boys for Life--Action,Comedy,Crime--$426,505,244
+Django Unchained--Drama,Western--$426,074,373
+Beauty and the Beast--Animation,Family,Fantasy--$424,967,620
+Dances with Wolves--Adventure,Drama,Western--$424,208,848
+Wo he wo de jia xiang--Drama--$422,390,820
+The Chronicles of Narnia: Prince Caspian--Action,Adventure,Family--$419,665,568
+Sex and the City--Comedy,Drama,Romance--$418,765,519
+Zhong guo ji zhang--Action,Adventure,Drama--$417,282,021
+The Mummy--Action,Adventure,Fantasy--$415,933,406
+The Chronicles of Narnia: The Voyage of the Dawn Treader--Adventure,Family,Fantasy--$415,686,217
+Jason Bourne--Action,Thriller--$415,484,914
+Mad Max: Fury Road--Action,Adventure,Sci-Fi--$415,261,382
+The Wolverine--Action,Sci-Fi--$414,828,246
+Kingsman: The Secret Service--Action,Adventure,Comedy--$414,351,546
+Night at the Museum: Battle of the Smithsonian--Adventure,Comedy,Family--$413,106,170
+Batman--Action,Adventure--$411,569,241
+The Bodyguard--Action,Drama,Music--$411,046,449
+Pacific Rim--Action,Adventure,Sci-Fi--$411,002,906
+Kingsman: The Golden Circle--Action,Adventure,Comedy--$410,902,662
+The Mummy--Action,Adventure,Fantasy--$409,231,607
+Ice Age: Collision Course--Animation,Adventure,Comedy--$408,754,975
+Twilight--Drama,Fantasy,Romance--$408,430,415
+Signs--Drama,Mystery,Sci-Fi--$408,247,917
+X2--Action,Sci-Fi,Thriller--$407,711,549
+Sing 2--Animation,Adventure,Comedy--$407,562,651
+Fantastic Beasts: The Secrets of Dumbledore--Adventure,Family,Fantasy--$406,950,844
+The Wolf of Wall Street--Biography,Comedy,Crime--$406,878,233
+Alita: Battle Angel--Action,Adventure,Sci-Fi--$404,980,543
+The Mummy: Tomb of the Dragon Emperor--Action,Adventure,Fantasy--$403,449,830
+Prometheus--Adventure,Mystery,Sci-Fi--$403,354,469
+Sonic the Hedgehog 2--Action,Adventure,Comedy--$402,656,846
+Gone with the Wind--Drama,Romance,War--$402,382,193
+Mamma Mia! Here We Go Again--Comedy,Musical,Romance--$402,264,843
+Eternals--Action,Adventure,Fantasy--$402,064,899
+Dune: Part One--Action,Adventure,Drama--$402,027,830
+Uncharted--Action,Adventure--$401,748,820
+Tron--Action,Adventure,Sci-Fi--$400,063,852
+Mission: Impossible III--Action,Adventure,Thriller--$398,479,497
+Snow White and the Huntsman--Action,Adventure,Drama--$396,592,829
+Grease--Comedy,Musical,Romance--$396,271,103
+Toy Story--Animation,Adventure,Comedy--$394,436,586
+Solo: A Star Wars Story--Action,Adventure,Sci-Fi--$392,924,807
+Black Adam--Action,Adventure,Fantasy--$392,913,058
+Superman Returns--Action,Adventure,Sci-Fi--$391,081,192
+Robin Hood: Prince of Thieves--Action,Adventure,Drama--$390,493,908
+Raiders of the Lost Ark--Action,Adventure--$389,925,971
+Independence Day: Resurgence--Action,Adventure,Sci-Fi--$389,681,935
+Live Free or Die Hard--Action,Thriller--$388,156,011
+Zhuo yao ji--Adventure,Comedy,Fantasy--$387,053,506
+Godzilla: King of the Monsters--Action,Adventure,Fantasy--$386,600,138
+Home--Animation,Adventure,Comedy--$386,041,607
+Star Trek--Action,Adventure,Sci-Fi--$385,680,446
+1917--Action,Drama,War--$384,577,421
+Happy Feet--Animation,Adventure,Comedy--$384,336,108
+Spider-Man: Into the Spider-Verse--Animation,Action,Adventure--$384,256,930
+Cars 3--Animation,Adventure,Comedy--$383,930,656
+Back to the Future--Adventure,Comedy,Sci-Fi--$383,336,762
+Ice Age--Animation,Adventure,Comedy--$383,257,136
+Kimi no na wa.--Animation,Drama,Fantasy--$382,238,181
+Fifty Shades Darker--Drama,Romance,Thriller--$381,545,846
+Monsters vs. Aliens--Animation,Action,Adventure--$381,509,870
+Black Widow--Action,Adventure,Sci-Fi--$379,751,655
+Godzilla--Action,Sci-Fi,Thriller--$379,014,294
+True Lies--Action,Comedy,Thriller--$378,882,411
+Slumdog Millionaire--Crime,Drama,Romance--$378,410,542
+Once Upon a Time in... Hollywood--Comedy,Drama--$377,617,598
+Taken 2--Action,Crime,Thriller--$376,152,455
+G.I. Joe: Retaliation--Action,Adventure,Sci-Fi--$375,740,705
+Shark Tale--Animation,Adventure,Comedy--$374,583,879
+What Women Want--Comedy,Fantasy,Romance--$374,111,707
+The Adventures of Tintin--Animation,Action,Adventure--$373,993,951
+Batman Begins--Action,Crime,Drama--$373,672,993
+Penguins of Madagascar--Animation,Action,Adventure--$373,515,621
+X-Men Origins: Wolverine--Action,Sci-Fi--$373,062,864
+The Golden Compass--Adventure,Family,Fantasy--$372,234,864
+Fifty Shades Freed--Drama,Romance,Thriller--$371,985,018
+Hitch--Comedy,Romance--$371,594,210
+Terminator Salvation--Action,Adventure,Sci-Fi--$371,353,001
+Captain America: The First Avenger--Action,Adventure,Sci-Fi--$370,569,774
+Edge of Tomorrow--Action,Adventure,Sci-Fi--$370,541,256
+There's Something About Mary--Comedy,Romance--$369,884,651
+Gone Girl--Drama,Mystery,Thriller--$369,330,363
+The Fugitive--Action,Crime,Drama--$368,875,760
+Jurassic Park III--Action,Adventure,Sci-Fi--$368,780,809
+My Big Fat Greek Wedding--Comedy,Drama,Romance--$368,744,044
+Xi hong shi shou fu--Comedy--$366,961,907
+Die Hard with a Vengeance--Action,Adventure,Thriller--$366,101,666
+Shazam!--Action,Adventure,Comedy--$366,080,049
+The Nun--Horror,Mystery,Thriller--$365,582,797
+Alvin and the Chipmunks--Animation,Adventure,Comedy--$365,352,546
+Tenet--Action,Sci-Fi,Thriller--$365,304,105
+Notting Hill--Comedy,Drama,Romance--$363,889,678
+A Bug's Life--Animation,Adventure,Comedy--$363,258,859
+Night at the Museum: Secret of the Tomb--Adventure,Comedy,Family--$363,204,635
+Ocean's Twelve--Crime,Thriller--$362,744,280
+Planet of the Apes--Action,Adventure,Sci-Fi--$362,211,740
+The Hangover Part III--Comedy,Crime--$362,000,072
+The World Is Not Enough--Action,Adventure,Thriller--$361,832,400
+Zhuo yao ji 2--Adventure,Comedy,Fantasy--$361,682,618
+Fast & Furious--Action,Crime,Thriller--$360,366,870
+Noah--Action,Adventure,Drama--$359,200,044
+The Karate Kid--Action,Drama,Family--$359,126,022
+Home Alone 2: Lost in New York--Adventure,Comedy,Crime--$358,994,850
+Hotel Transylvania--Animation,Adventure,Comedy--$358,375,603
+Minority Report--Action,Crime,Mystery--$358,372,926
+Top Gun--Action,Drama--$357,288,178
+The Legend of Tarzan--Action,Adventure,Drama--$356,700,357
+American Beauty--Drama--$356,296,601
+Sen to Chihiro no kamikakushi--Animation,Adventure,Family--$355,822,319
+Apollo 13--Adventure,Drama,History--$355,237,933
+Rain Man--Drama--$354,825,435
+The Great Gatsby--Drama,Romance--$353,659,851
+Dumbo--Adventure,Family,Fantasy--$353,284,621
+I, Robot--Action,Mystery,Sci-Fi--$353,133,898
+Basic Instinct--Drama,Mystery,Thriller--$352,927,224
+Murder on the Orient Express--Crime,Drama,Mystery--$352,794,081
+X: First Class--Action,Sci-Fi--$352,616,690
+Angry Birds--Animation,Action,Adventure--$352,333,929
+GoldenEye--Action,Adventure,Thriller--$352,194,034
+Catch Me If You Can--Biography,Crime,Drama--$352,114,312
+Now You See Me--Crime,Mystery,Thriller--$351,723,989
+Hannibal--Crime,Drama,Thriller--$351,692,268
+The Mask--Action,Comedy,Crime--$351,583,407
+Peter Rabbit--Adventure,Comedy,Crime--$351,496,066
+Speed--Action,Adventure,Thriller--$350,448,145
+Dinosaur--Animation,Adventure,Drama--$349,822,765
+Mary Poppins Returns--Adventure,Comedy,Family--$349,546,142
+Deep Impact--Action,Drama,Sci-Fi--$349,464,664
+The Lorax--Animation,Adventure,Comedy--$349,183,316
+The Maze Runner--Action,Mystery,Sci-Fi--$348,319,861
+The Smurfs 2--Animation,Adventure,Comedy--$347,545,360
+National Treasure--Action,Adventure,Mystery--$347,512,318
+Rush Hour 2--Action,Comedy,Crime--$347,325,802
+Trolls--Animation,Adventure,Comedy--$347,182,886
+xXx: Return of Xander Cage--Action,Adventure,Thriller--$346,118,277
+Pocahontas--Animation,Adventure,Drama--$346,079,773
+How the Grinch Stole Christmas--Comedy,Family,Fantasy--$345,823,032
+Star Trek Beyond--Action,Adventure,Sci-Fi--$343,471,816
+Alvin and the Chipmunks: Chipwrecked--Animation,Adventure,Comedy--$342,695,435
+Wanted--Action,Crime,Thriller--$342,463,063
+The Flintstones--Comedy,Family,Fantasy--$341,631,208
+A Quiet Place--Drama,Horror,Sci-Fi--$340,952,971
+Enchanted--Animation,Adventure,Comedy--$340,487,836
+Over the Hedge--Animation,Adventure,Comedy--$339,795,890
+300: Rise of an Empire--Action,Drama--$337,580,051
+Batman Forever--Action,Adventure--$336,567,158
+Prince of Persia: The Sands of Time--Action,Adventure,Fantasy--$336,365,676
+The Curious Case of Benjamin Button--Drama,Fantasy,Romance--$335,802,786
+Journey 2: The Mysterious Island--Action,Adventure,Comedy--$335,287,748
+The Rock--Action,Adventure,Thriller--$335,062,621
+The Great Wall--Action,Adventure,Fantasy--$334,933,831
+Now You See Me 2--Action,Adventure,Comedy--$334,897,606
+Xiu xiu de tie quan--Comedy,Fantasy,Sport--$334,530,869
+Fantastic Four--Action,Adventure,Fantasy--$333,535,934
+Indiana Jones and the Temple of Doom--Action,Adventure--$333,107,271
+Tomorrow Never Dies--Action,Adventure,Thriller--$333,011,068
+Back to the Future Part II--Adventure,Comedy,Sci-Fi--$332,500,002
+The Good Dinosaur--Animation,Adventure,Comedy--$332,207,671
+Free Guy--Action,Adventure,Comedy--$331,526,598
+22 Jump Street--Action,Comedy,Crime--$331,333,876
+Meet the Parents--Comedy,Romance--$330,444,045
+Who Framed Roger Rabbit--Animation,Adventure,Comedy--$329,803,958
+Black Swan--Drama,Thriller--$329,398,046
+The Perfect Storm--Action,Adventure,Drama--$328,718,434
+John Wick: Chapter 3 - Parabellum--Action,Crime,Thriller--$328,349,387
+Crocodile Dundee--Action,Adventure,Comedy--$328,203,506
+Feng kuang de wai xing ren--Comedy,Sci-Fi--$327,598,891
+Se7en--Crime,Drama,Mystery--$327,333,559
+The Devil Wears Prada--Comedy,Drama--$326,706,115
+Taken 3--Action,Crime,Thriller--$326,479,141
+The Hunchback of Notre Dame--Animation,Drama,Family--$325,338,851
+A Christmas Carol--Animation,Adventure,Comedy--$325,286,646
+The SpongeBob Movie: Sponge Out of Water--Animation,Adventure,Comedy--$325,186,032
+Schindler's List--Biography,Drama,History--$322,161,245
+Megamind--Animation,Action,Comedy--$321,885,765
+The Conjuring 2--Horror,Mystery,Thriller--$321,834,351
+Green Book--Biography,Comedy,Drama--$321,752,656
+Lethal Weapon 3--Action,Crime,Thriller--$321,731,527
+Robin Hood--Action,Adventure,Drama--$321,669,741
+Inglourious Basterds--Adventure,Drama,War--$321,457,747
+101 Dalmatians--Adventure,Comedy,Crime--$320,689,294
+The Conjuring--Horror,Mystery,Thriller--$320,406,242
+Fatal Attraction--Drama,Thriller--$320,145,693
+Sonic the Hedgehog--Action,Adventure,Comedy--$319,715,683
+The Last Airbender--Action,Adventure,Family--$319,713,881
+The Proposal--Comedy,Drama,Romance--$317,375,031
+The Polar Express--Animation,Adventure,Comedy--$316,897,787
+A Beautiful Mind--Biography,Drama--$316,791,257
+Beverly Hills Cop--Action,Comedy,Crime--$316,360,478
+Air Force One--Action,Drama,Thriller--$315,156,409
+Wonder--Drama,Family--$315,025,930
+The Expendables 2--Action,Adventure,Thriller--$314,975,955
+Chicken Little--Animation,Adventure,Comedy--$314,432,837
+As Good as It Gets--Comedy,Drama,Romance--$314,178,011
+Knives Out--Comedy,Crime,Drama--$312,897,920
+Maze Runner: The Scorch Trials--Action,Adventure,Sci-Fi--$312,296,056
+Resident Evil: The Final Chapter--Action,Horror,Sci-Fi--$312,242,626
+The Lego Batman Movie--Animation,Action,Adventure--$312,136,671
+Austin Powers: The Spy Who Shagged Me--Action,Adventure,Comedy--$312,016,928
+Ocean's Thirteen--Crime,Thriller--$311,312,624
+Little Fockers--Comedy,Romance--$310,650,585
+Bolt--Animation,Adventure,Comedy--$309,979,994
+Ransom--Action,Crime,Thriller--$309,492,681
+Runaway Bride--Comedy,Romance--$309,460,292
+The Blind Side--Biography,Drama,Sport--$309,231,694
+Qian ren 3: Zai jian qian ren--Comedy,Romance--$307,592,427
+The Fault in Our Stars--Drama,Romance--$307,166,834
+The Pursuit of Happyness--Biography,Drama--$307,127,625
+Rise of the Guardians--Animation,Action,Adventure--$306,941,670
+Close Encounters of the Third Kind--Drama,Sci-Fi--$306,889,114
+Chicago--Comedy,Crime,Musical--$306,776,732
+Annabelle: Creation--Horror,Mystery,Thriller--$306,515,884
+Bridesmaids--Comedy,Romance--$306,442,085
+Skyscraper--Action,Adventure,Thriller--$304,868,961
+A Good Day to Die Hard--Action,Thriller--$304,654,182
+Mulan--Animation,Adventure,Comedy--$304,320,254
+Dangal--Action,Biography,Drama--$303,723,636
+Passengers--Drama,Romance,Sci-Fi--$303,144,152
+Battleship--Action,Adventure,Sci-Fi--$303,025,485
+Liar Liar--Comedy,Fantasy--$302,710,615
+G.I. Joe: The Rise of Cobra--Action,Adventure,Sci-Fi--$302,469,017
+Wrath of the Titans--Action,Adventure,Fantasy--$301,970,083
+4: Rise of the Silver Surfer--Action,Adventure,Fantasy--$301,913,131
+Hook--Adventure,Comedy,Family--$300,854,823
+Superman--Action,Adventure,Sci-Fi--$300,478,449
+Rocky IV--Drama,Sport--$300,473,716
+Rambo: First Blood Part II--Action,Adventure,Thriller--$300,400,432
+Resident Evil: Afterlife--Action,Horror,Sci-Fi--$300,228,084
+Van Helsing--Action,Adventure,Fantasy--$300,157,638
+Stuart Little--Adventure,Comedy,Family--$300,135,367
+Beverly Hills Cop II--Action,Comedy,Crime--$299,965,036
+Alice Through the Looking Glass--Adventure,Family,Fantasy--$299,820,798
+My Best Friend's Wedding--Comedy,Drama,Romance--$299,288,605
+Real Steel--Action,Drama,Sci-Fi--$299,268,508
+Horton Hears a Who!--Animation,Adventure,Comedy--$298,572,799
+Ocean's Eight--Action,Comedy,Crime--$297,795,726
+A Quiet Place Part II--Drama,Horror,Sci-Fi--$297,372,261
+Insurgent--Action,Adventure,Sci-Fi--$297,002,527
+Look Who's Talking--Comedy--$296,999,813
+Austin Powers in Goldmember--Action,Adventure,Comedy--$296,938,801
+Ghostbusters--Action,Comedy,Fantasy--$296,578,797
+Miss Peregrine's Home for Peculiar Children--Adventure,Drama,Family--$296,482,446
+X-Men--Action,Adventure,Sci-Fi--$296,339,528
+Ferdinand--Animation,Adventure,Comedy--$296,069,199
+Shutter Island--Mystery,Thriller--$294,805,697
+Doctor Dolittle--Comedy,Family,Fantasy--$294,456,605
+Bee Movie--Animation,Adventure,Comedy--$293,514,336
+Salt--Action,Thriller--$293,503,354
+G-Force--Animation,Action,Adventure--$292,817,898
+The Departed--Crime,Drama,Thriller--$291,480,452
+What Lies Beneath--Drama,Horror,Mystery--$291,420,351
+Pacific Rim: Uprising--Action,Adventure,Fantasy--$290,930,148
+The Bourne Supremacy--Action,Mystery,Thriller--$290,835,269
+Sex and the City 2--Comedy,Drama,Romance--$290,745,055
+Shakespeare in Love--Comedy,Drama,History--$289,317,794
+Divergent--Action,Adventure,Mystery--$288,885,818
+Coming to America--Comedy,Romance--$288,752,301
+Wedding Crashers--Comedy,Romance--$288,485,135
+Maze Runner: The Death Cure--Action,Adventure,Sci-Fi--$288,175,335
+Casper--Comedy,Family,Fantasy--$287,928,194
+American Pie 2--Comedy--$287,553,595
+Elvis--Biography,Drama,Music--$287,340,048
+Pitch Perfect 2--Comedy,Music--$287,144,079
+The Green Mile--Crime,Drama,Fantasy--$286,801,374
+Oblivion--Action,Adventure,Sci-Fi--$286,168,572
+Elysium--Action,Drama,Sci-Fi--$286,140,700
+Lethal Weapon 4--Action,Crime,Thriller--$285,444,603
+John Carter--Action,Adventure,Sci-Fi--$284,139,100
+Turbo--Animation,Adventure,Comedy--$282,570,682
+Paddington--Adventure,Comedy,Family--$282,377,683
+Bridget Jones's Diary--Comedy,Drama,Romance--$281,995,610
+The Tourist--Action,Thriller--$278,780,441
+Split--Horror,Thriller--$278,454,417
+Scary Movie--Comedy--$278,019,771
+xXx--Action,Adventure,Thriller--$277,448,382
+The Bourne Legacy--Action,Adventure,Thriller--$276,144,750
+Mr. Peabody & Sherman--Animation,Adventure,Comedy--$275,698,039
+Scooby-Doo--Adventure,Comedy,Family--$275,678,613
+Lincoln--Biography,Drama,History--$275,293,450
+Lara Croft: Tomb Raider--Action,Adventure,Fantasy--$274,703,340
+Tomb Raider--Action,Adventure,Fantasy--$274,650,803
+The Expendables--Action,Adventure,Thriller--$274,470,394
+Cloudy with a Chance of Meatballs 2--Animation,Adventure,Comedy--$274,325,949
+The Nutty Professor--Comedy,Romance,Sci-Fi--$273,961,019
+Jerry Maguire--Comedy,Drama,Romance--$273,552,592
+Bad Boys II--Action,Comedy,Crime--$273,339,556
+Lilo & Stitch--Animation,Adventure,Comedy--$273,144,151
+The Silence of the Lambs--Crime,Drama,Thriller--$272,742,922
+Grown Ups--Comedy--$271,457,301
+Neighbors--Comedy--$270,665,134
+The Firm--Drama,Mystery,Thriller--$270,248,367
+We're the Millers--Comedy,Crime--$269,994,119
+Gran Torino--Drama--$269,958,228
+10,000 BC--Action,Adventure,Drama--$269,784,201
+American Gangster--Biography,Crime,Drama--$269,755,430
+Epic--Animation,Action,Adventure--$268,426,634
+Exodus: Gods and Kings--Action,Adventure,Drama--$268,175,631
+Blade Runner 2049--Action,Drama,Mystery--$267,770,708
+Bambi--Animation,Adventure,Drama--$267,447,150
+The Princess and the Frog--Animation,Adventure,Comedy--$267,045,765
+Batman Returns--Action,Crime,Fantasy--$266,915,287
+Indecent Proposal--Drama,Romance--$266,614,059
+Something's Gotta Give--Comedy,Drama,Romance--$265,328,738
+Bridget Jones: The Edge of Reason--Comedy,Drama,Romance--$265,126,918
+The Incredible Hulk--Action,Adventure,Sci-Fi--$264,770,996
+Waterworld--Action,Adventure,Sci-Fi--$264,218,220
+The Truman Show--Comedy,Drama--$264,118,201
+Charlie's Angels--Action,Adventure,Comedy--$264,105,545
+The Fifth Element--Action,Adventure,Sci-Fi--$263,920,180
+Jumanji--Adventure,Comedy,Family--$262,821,940
+Gisaengchung--Drama,Thriller--$262,676,096
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan--Comedy--$262,552,893
+Robots--Animation,Adventure,Comedy--$262,511,490
+Knight and Day--Action,Adventure,Comedy--$261,989,769
+Total Recall--Action,Adventure,Sci-Fi--$261,317,921
+This Is It--Documentary,Drama,Music--$261,183,588
+Terminator: Dark Fate--Action,Adventure,Sci-Fi--$261,119,292
+The Lone Ranger--Action,Adventure,Western--$260,502,115
+Super 8--Action,Mystery,Sci-Fi--$260,095,986
+Halloween--Crime,Horror,Thriller--$259,939,835
+Xun long jue--Action,Adventure,Drama--$259,368,448
+Charlie's Angels: Full Throttle--Action,Adventure,Comedy--$259,175,788
+Rush Hour 3--Action,Comedy,Crime--$258,097,122
+The Full Monty--Comedy,Drama--$257,938,649
+Gong fu yu jia--Action,Adventure,Comedy--$257,753,889
+Annabelle--Horror,Mystery,Thriller--$257,589,721
+Encanto--Animation,Comedy,Family--$256,786,742
+The Village--Drama,Mystery,Thriller--$256,697,520
+Gang jiong--Action,Adventure,Comedy--$256,283,912
+Erin Brockovich--Biography,Drama--$256,271,286
+Us--Horror,Mystery,Thriller--$256,067,149
+Fei chi ren sheng--Comedy,Sport--$255,863,112
+Get Out--Horror,Mystery,Thriller--$255,745,157
+Marley & Me--Drama,Family--$255,743,093
+Cliffhanger--Action,Adventure,Thriller--$255,000,211
+Baahubali 2: The Conclusion--Action,Drama--$254,158,390
+Babe--Comedy,Drama,Family--$254,134,910
+Men in Black: International--Action,Adventure,Comedy--$253,890,701
+Wild Hogs--Action,Adventure,Comedy--$253,625,427
+High School Musical 3: Senior Year--Comedy,Drama,Family--$252,909,177
+Hercules--Animation,Adventure,Comedy--$252,712,101
+Dark Phoenix--Action,Adventure,Sci-Fi--$252,442,974
+True Grit--Drama,Western--$252,276,927
+Dolittle--Adventure,Comedy,Family--$251,410,631
+Bean--Adventure,Comedy,Family--$251,212,670
+American Hustle--Crime,Drama--$251,171,807
+Enemy of the State--Action,Thriller--$250,849,789
+You've Got Mail--Comedy,Drama,Romance--$250,821,495
+Eragon--Action,Adventure,Family--$250,425,512
+Brother Bear--Animation,Adventure,Comedy--$250,397,798
+The Godfather--Crime,Drama--$250,341,816
+The Mask of Zorro--Action,Adventure,Comedy--$250,288,523
+The Bad Guys--Animation,Adventure,Comedy--$250,162,278
+The Ring--Horror,Mystery--$249,348,933
+The Blair Witch Project--Horror,Mystery--$248,639,099
+Unbreakable--Drama,Mystery,Sci-Fi--$248,118,121
+Love Actually--Comedy,Drama,Romance--$247,933,248
+Journey to the West: Demon Chapter--Adventure,Comedy,Fantasy--$247,585,244
+Dumb and Dumber--Comedy--$247,290,327
+Glass--Drama,Horror,Sci-Fi--$246,999,039
+Grown Ups 2--Comedy--$246,984,278
+The Peanuts Movie--Animation,Adventure,Comedy--$246,233,113
+Rango--Animation,Action,Adventure--$245,724,603
+Four Weddings and a Funeral--Comedy,Drama,Romance--$245,700,832
+Face/Off--Action,Crime,Sci-Fi--$245,676,146
+Teenage Mutant Ninja Turtles: Out of the Shadows--Action,Adventure,Comedy--$245,623,848
+Dark Shadows--Comedy,Fantasy,Horror--$245,527,149
+Hulk--Action,Sci-Fi--$245,285,165
+Lie huo ying xiong--Action,Drama--$245,179,562
+Bienvenue chez les Ch'tis--Comedy,Romance--$245,144,417
+Back to the Future Part III--Adventure,Comedy,Sci-Fi--$245,077,583
+Pixels--Action,Comedy,Fantasy--$244,874,809
+Hercules--Action,Adventure,Fantasy--$244,819,862
+Rush Hour--Action,Comedy,Crime--$244,721,064
+Journey to the Center of the Earth--Action,Adventure,Family--$244,232,688
+After Earth--Action,Adventure,Sci-Fi--$243,611,982
+A Few Good Men--Drama,Thriller--$243,240,178
+Cloudy with a Chance of Meatballs--Animation,Adventure,Comedy--$243,006,126
+8 Mile--Drama,Music--$242,875,078
+Daddy's Home--Comedy,Family--$242,786,137
+RoboCop--Action,Crime,Sci-Fi--$242,688,965
+Eraser--Action,Crime,Thriller--$242,295,562
+Alien: Covenant--Horror,Sci-Fi,Thriller--$240,891,763
+Sully--Biography,Drama--$240,797,623
+Assassin's Creed--Action,Adventure,Sci-Fi--$240,697,856
+Click--Comedy,Drama,Fantasy--$240,685,326
+Jiang Ziya--Animation,Action,Adventure--$240,646,355
+Planes--Animation,Adventure,Comedy--$240,171,783
+Resident Evil: Retribution--Action,Horror,Sci-Fi--$240,159,255
+Die Hard 2--Action,Thriller--$240,031,274
+Crocodile Dundee II--Action,Adventure,Comedy--$239,606,210
+Bullet Train--Action,Comedy,Thriller--$239,268,602
+Crazy Rich Asians--Comedy,Drama,Romance--$238,843,729
+Batman & Robin--Action,Sci-Fi--$238,235,719
+Hauru no ugoku shiro--Animation,Adventure,Family--$237,536,126
+Gulliver's Travels--Adventure,Comedy,Family--$237,382,724
+Gone in Sixty Seconds--Action,Crime,Thriller--$237,202,299
+Saturday Night Fever--Drama,Music--$237,113,184
+Silver Linings Playbook--Comedy,Drama,Romance--$236,412,453
+2 Fast 2 Furious--Action,Crime,Thriller--$236,350,661
+Hidden Figures--Biography,Drama,History--$235,956,898
+A.I. Artificial Intelligence--Drama,Sci-Fi--$235,926,552
+Dead Poets Society--Comedy,Drama--$235,860,116
+Spy--Action,Comedy--$235,666,219
+American Pie--Comedy--$235,483,004
+American Reunion--Comedy--$234,989,584
+Big Daddy--Comedy,Drama--$234,801,895
+Alvin and the Chipmunks: The Road Chip--Animation,Adventure,Comedy--$234,798,636
+The Imitation Game--Biography,Drama,Thriller--$233,555,708
+Cruella--Adventure,Comedy,Crime--$233,503,234
+The Day the Earth Stood Still--Adventure,Drama,Sci-Fi--$233,093,859
+American Wedding--Comedy--$232,722,935
+The Girl with the Dragon Tattoo--Crime,Drama,Mystery--$232,617,430
+Juno--Comedy,Drama--$232,372,681
+Argo--Biography,Drama,Thriller--$232,325,503
+Mr. Bean's Holiday--Comedy,Family--$232,225,908
+The English Patient--Drama,Romance,War--$231,976,425
+Sister Act--Comedy,Family,Music--$231,605,150
+Annabelle Comes Home--Horror,Mystery,Thriller--$231,252,591
+Constantine--Action,Fantasy,Horror--$230,884,728
+Get Smart--Action,Adventure,Comedy--$230,685,453
+Space Jam--Animation,Adventure,Comedy--$230,594,962
+La vita è bella--Comedy,Drama,Romance--$230,098,753
+The Heat--Action,Comedy,Crime--$229,930,771
+Ghostbusters--Action,Comedy,Fantasy--$229,147,509
+Ghost Rider--Action,Fantasy,Thriller--$228,738,393
+Xia Luo te fan nao--Comedy--$228,122,928
+Paddington 2--Adventure,Comedy,Family--$227,994,792
+Sleepless in Seattle--Comedy,Drama,Romance--$227,927,165
+Lethal Weapon 2--Action,Crime,Thriller--$227,853,986
+The Green Hornet--Action,Comedy,Crime--$227,817,248
+Out of Africa--Biography,Drama,Romance--$227,514,205
+Elf--Adventure,Comedy,Family--$227,356,156
+Fang hua--Drama,Romance,War--$227,091,290
+Baby Driver--Action,Crime,Drama--$226,945,087
+Immortals--Action,Drama,Fantasy--$226,904,017
+Taken--Action,Crime,Thriller--$226,837,760
+Percy Jackson & the Olympians: The Lightning Thief--Adventure,Family,Fantasy--$226,497,209
+Lightyear--Animation,Action,Adventure--$226,425,420
+Hansel & Gretel: Witch Hunters--Action,Fantasy,Horror--$226,349,749
+Valerian and the City of a Thousand Planets--Action,Adventure,Fantasy--$225,973,340
+Good Will Hunting--Drama,Romance--$225,933,435
+Shaonian de ni--Crime,Drama,Romance--$225,918,798
+Ford v Ferrari--Action,Biography,Drama--$225,508,210
+Jumper--Action,Adventure,Sci-Fi--$225,132,113
+The Social Network--Biography,Drama--$224,920,375
+Chicken Run--Animation,Adventure,Comedy--$224,874,811
+Con Air--Action,Crime,Thriller--$224,012,234
+Interview with the Vampire: The Vampire Chronicles--Drama,Fantasy,Horror--$223,664,608
+Flightplan--Drama,Mystery,Thriller--$223,387,299
+Yes Man--Comedy,Romance--$223,241,637
+Non-Stop--Action,Mystery,Thriller--$222,809,600
+Honey, I Shrunk the Kids--Adventure,Comedy,Family--$222,724,172
+Fahrenheit 9/11--Documentary,Drama,War--$222,446,882
+Wild Wild West--Action,Comedy,Sci-Fi--$222,104,681
+Wo he wo de fu bei--Drama--$221,831,086
+Geostorm--Action,Sci-Fi,Thriller--$221,600,160
+Presumed Innocent--Mystery,Thriller--$221,303,188
+Jungle Cruise--Action,Adventure,Comedy--$220,889,446
+Scary Movie 3--Comedy--$220,673,217
+Collateral--Action,Crime,Drama--$220,239,925
+Inferno--Action,Adventure,Crime--$220,021,259
+Knocked Up--Comedy,Romance--$219,922,417
+Green Lantern--Action,Adventure,Sci-Fi--$219,851,172
+What Happens in Vegas--Comedy,Romance--$219,375,562
+It's Complicated--Comedy,Drama,Romance--$219,103,655
+The Terminal--Comedy,Drama,Romance--$219,100,084
+Little Women--Drama,Romance--$218,843,645
+Captain Phillips--Action,Biography,Crime--$218,791,811
+The Prince of Egypt--Animation,Adventure,Drama--$218,613,188
+Jack Reacher--Action,Mystery,Thriller--$218,340,595
+Kingdom of Heaven--Action,Adventure,Drama--$218,122,627
+The Emoji Movie--Animation,Adventure,Comedy--$217,776,646
+Zhe ge sha shou bu tai leng jing--Comedy--$217,254,604
+Dracula Untold--Action,Drama,Fantasy--$217,124,280
+Central Intelligence--Action,Comedy,Crime--$216,972,543
+Million Dollar Baby--Drama,Sport--$216,763,646
+The Help--Drama--$216,639,112
+Twins--Comedy,Crime--$216,614,388
+Valentine's Day--Comedy,Romance--$216,528,528
+Bad Teacher--Comedy,Romance--$216,197,492
+Smile--Horror,Mystery,Thriller--$216,135,048
+Song ni yi duo xiao hong hua--Drama,Family--$216,000,000
+The Croods: A New Age--Animation,Adventure,Comedy--$215,905,815
+Clear and Present Danger--Action,Crime,Drama--$215,887,717
+One Hundred and One Dalmatians--Animation,Adventure,Comedy--$215,880,014
+Ted 2--Comedy--$215,863,606
+Dracula--Drama,Fantasy,Horror--$215,862,692
+Vertical Limit--Action,Adventure,Drama--$215,663,859
+Ghostbusters II--Action,Comedy,Fantasy--$215,394,738
+The Patriot--Action,Drama,History--$215,294,342
+The Sorcerer's Apprentice--Action,Adventure,Family--$215,283,742
+Just Go with It--Comedy,Romance--$214,945,591
+The Expendables 3--Action,Adventure,Thriller--$214,657,577
+Dirty Dancing--Drama,Music,Romance--$214,577,242
+Creed II--Action,Drama,Sport--$214,215,889
+Smallfoot--Animation,Adventure,Comedy--$214,115,531
+Public Enemies--Action,Biography,Crime--$214,104,620
+The Bourne Identity--Action,Mystery,Thriller--$214,034,224
+Disclosure--Drama,Thriller--$214,015,089
+Pulp Fiction--Crime,Drama--$213,928,762
+The Aviator--Biography,Drama--$213,719,942
+Wo hu cang long--Action,Adventure,Drama--$213,525,736
+Braveheart--Biography,Drama,History--$213,216,216
+Into the Woods--Adventure,Comedy,Drama--$212,902,372
+Bedtime Stories--Adventure,Comedy,Family--$212,874,864
+Miss Congeniality--Action,Comedy,Crime--$212,742,720
+Entrapment--Action,Crime,Romance--$212,404,396
+Ace Ventura: When Nature Calls--Adventure,Comedy,Crime--$212,385,533
+End of Days--Action,Fantasy,Horror--$211,989,043
+Bridget Jones's Baby--Comedy,Drama,Romance--$211,952,420
+Fury--Action,Drama,War--$211,822,697
+Battle: Los Angeles--Action,Adventure,Sci-Fi--$211,819,354
+Australia--Adventure,Drama,Romance--$211,787,511
+Due Date--Comedy,Drama--$211,780,824
+Master and Commander: The Far Side of the World--Action,Adventure,Drama--$211,622,535
+A Series of Unfortunate Events--Adventure,Comedy,Family--$211,468,235
+The Little Mermaid--Animation,Adventure,Family--$211,343,479
+Qi ji · Ben xiao hai--Comedy,Drama--$211,019,042
+District 9--Action,Sci-Fi,Thriller--$210,888,950
+Moonraker--Action,Adventure,Sci-Fi--$210,308,099
+The Others--Horror,Mystery,Thriller--$209,947,037
+Horrible Bosses--Comedy,Crime--$209,838,559
+Hou lai de wo men--Drama,Romance--$209,221,380
+Red Dragon--Crime,Drama,Thriller--$209,196,298
+Tomorrowland--Action,Adventure,Family--$209,035,668
+Me Before You--Drama,Romance--$208,314,186
+Safe House--Action,Thriller--$208,076,205
+S.W.A.T.--Action,Adventure,Crime--$207,725,639
+The Fast and the Furious--Action,Crime,Thriller--$207,517,509
+Traffic--Crime,Drama,Thriller--$207,515,725
+DC League of Super-Pets--Animation,Action,Adventure--$207,357,117
+Paranormal Activity 3--Horror,Mystery--$207,039,844
+Philadelphia--Drama--$206,678,440
+The Conjuring: The Devil Made Me Do It--Horror,Mystery,Thriller--$206,431,050
+Sleepy Hollow--Fantasy,Horror,Mystery--$206,071,502
+The Holiday--Comedy,Romance--$205,850,169
+The Jungle Book--Animation,Adventure,Comedy--$205,843,612
+Nou fo--Action,Adventure,Crime--$205,842,393
+London Has Fallen--Action,Thriller--$205,754,447
+The Break-Up--Comedy,Drama,Romance--$205,668,210
+Xi you: Xiang mo pian--Action,Adventure,Comedy--$205,637,183
+The Ugly Truth--Comedy,Romance--$205,599,393
+JFK--Drama,History,Thriller--$205,405,498
+Birds of Prey and the Fantabulous Emancipation of One Harley Quinn--Action,Comedy,Crime--$205,372,791
+White House Down--Action,Drama,Thriller--$205,366,737
+A Dog's Purpose--Adventure,Comedy,Drama--$205,035,819
+Gake no ue no Ponyo--Animation,Adventure,Comedy--$204,826,668
+Fun with Dick and Jane--Comedy,Crime--$204,681,899
+Eat Pray Love--Biography,Drama,Romance--$204,594,016
+The Addams Family--Animation,Comedy,Family--$204,394,183
+Ghostbusters: Afterlife--Adventure,Comedy,Fantasy--$204,334,455
+You Don't Mess with the Zohan--Action,Comedy--$204,313,400
+Hairspray--Comedy,Drama,Musical--$203,627,753
+King Arthur--Action,Adventure,Drama--$203,567,857
+Yogi Bear--Animation,Adventure,Comedy--$203,509,374
+Everest--Action,Adventure,Biography--$203,427,584
+Vanilla Sky--Fantasy,Mystery,Romance--$203,388,341
+Arrival--Drama,Mystery,Sci-Fi--$203,388,186
+Need for Speed--Action,Thriller--$203,277,636
+Garfield--Animation,Adventure,Comedy--$203,172,417
+Patch Adams--Biography,Comedy,Drama--$202,292,902
+Teenage Mutant Ninja Turtles--Action,Adventure,Comedy--$202,084,756
+Kindergarten Cop--Action,Comedy,Crime--$201,957,688
+Straight Outta Compton--Biography,Drama,History--$201,634,991
+21 Jump Street--Action,Comedy,Crime--$201,585,328
+Valkyrie--Drama,History,Thriller--$201,545,517
+Open Season--Animation,Adventure,Comedy--$200,811,689
+Cats & Dogs--Action,Adventure,Comedy--$200,687,492
+The Hunt for Red October--Action,Adventure,Thriller--$200,512,643
+Percy Jackson: Sea of Monsters--Adventure,Family,Fantasy--$199,850,315
+Two Weeks Notice--Comedy,Romance--$199,043,471
+RED--Action,Comedy,Crime--$199,006,387
+Chak dan juen ga 2--Action,Crime,Thriller--$198,921,659
+City of Angels--Drama,Fantasy,Romance--$198,685,114
+The Pacifier--Action,Comedy,Drama--$198,636,868
+50 First Dates--Comedy,Drama,Romance--$198,520,934
+Total Recall--Action,Adventure,Sci-Fi--$198,467,168
+Yi chu hao xi--Comedy,Drama--$198,326,350
+Lo imposible--Adventure,Drama,History--$198,087,212
+Ren zai jiong tu: Tai jiong--Adventure,Comedy,Drama--$197,757,387
+Christopher Robin--Adventure,Comedy,Drama--$197,744,377
+Jack the Giant Slayer--Action,Adventure,Fantasy--$197,687,603
+Smurfs: The Lost Village--Animation,Adventure,Comedy--$197,183,546
+Zhong guo yi sheng--Drama--$197,143,218
+Spy Kids 3: Game Over--Action,Adventure,Comedy--$197,101,678
+Panic Room--Crime,Drama,Thriller--$197,079,546
+The Other Woman--Comedy,Romance--$196,710,396
+Stargate--Action,Adventure,Sci-Fi--$196,567,262
+Beowulf--Animation,Action,Adventure--$196,393,745
+The Vow--Drama,Romance--$196,114,570
+Anger Management--Comedy--$195,745,823
+Tropic Thunder--Action,Comedy,War--$195,702,963
+The Shape of Water--Drama,Fantasy,Romance--$195,333,312
+Rocketman--Biography,Drama,Musical--$195,320,400
+The Pelican Brief--Crime,Drama,Mystery--$195,268,056
+The BFG--Adventure,Family,Fantasy--$195,243,411
+Downton Abbey--Drama,Romance--$194,694,725
+The Intern--Comedy,Drama--$194,564,672
+The Curse of the Were-Rabbit--Animation,Adventure,Comedy--$194,137,091
+Gnomeo & Juliet--Animation,Adventure,Comedy--$193,967,670
+The Sum of All Fears--Action,Drama,Thriller--$193,921,372
+Gangs of New York--Crime,Drama--$193,772,504
+The Post--Biography,Drama,History--$193,764,664
+Xi you ji zhi: Sun Wukong san da Baigu Jing--Action,Adventure,Fantasy--$193,678,298
+Paranormal Activity--Horror,Mystery--$193,355,800
+Tenki no ko--Animation,Drama,Fantasy--$193,337,225
+The Lego Movie 2: The Second Part--Animation,Action,Adventure--$192,456,290
+The Equalizer--Action,Crime,Thriller--$192,330,738
+Wu sha--Crime,Drama,Thriller--$191,602,146
+The Addams Family--Comedy,Fantasy--$191,502,426
+The Longest Yard--Comedy,Crime,Sport--$191,466,556
+The Lost City--Action,Adventure,Comedy--$190,844,029
+The Santa Clause--Comedy,Drama,Family--$190,539,357
+Cheaper by the Dozen--Comedy,Family--$190,538,630
+The Equalizer 2--Action,Crime,Thriller--$190,400,157
+Abominable--Animation,Adventure,Comedy--$190,304,772
+Hollow Man--Action,Horror,Sci-Fi--$190,213,455
+Outbreak--Action,Drama,Thriller--$189,859,560
+So duk 2: Tin dei duei kuet--Action,Crime--$189,396,380
+The X Files--Drama,Mystery,Sci-Fi--$189,176,423
+Xin hua lu fang--Comedy,Drama,Romance--$189,017,596
+Rambo III--Action,Adventure,Thriller--$189,015,611
+The Secret Life of Walter Mitty--Adventure,Comedy,Drama--$188,133,322
+Mou seung--Action,Crime,Mystery--$188,116,796
+Jaws 2--Adventure,Horror,Thriller--$187,884,007
+12 Years a Slave--Biography,Drama,History--$187,733,202
+Heat--Action,Crime,Drama--$187,436,818
+Mr. Popper's Penguins--Comedy,Family,Fantasy--$187,361,754
+The Grudge--Horror,Mystery,Thriller--$187,281,115
+I Now Pronounce You Chuck & Larry--Comedy,Romance--$187,134,117
+The Horse Whisperer--Drama,Romance,Western--$186,883,563
+Walk the Line--Biography,Drama,Music--$186,797,986
+Jian bing xia--Comedy--$186,699,768
+The Jungle Book 2--Animation,Adventure,Comedy--$186,303,759
+The Final Destination--Horror,Thriller--$186,167,139
+Atlantis: The Lost Empire--Animation,Action,Adventure--$186,053,725
+Inside Man--Crime,Drama,Mystery--$186,003,591
+The Waterboy--Comedy,Sport--$185,991,646
+Hugo--Adventure,Drama,Family--$185,770,310
+Pitch Perfect 3--Comedy,Music--$185,400,345
+Watchmen--Action,Drama,Mystery--$185,382,813
+The Birdcage--Comedy--$185,260,553
+Moulin Rouge!--Drama,Musical,Romance--$184,935,320
+Snow White and the Seven Dwarfs--Animation,Adventure,Family--$184,925,486
+Hop--Animation,Adventure,Comedy--$184,367,145
+Bad Moms--Comedy--$183,936,074
+Jupiter Ascending--Action,Adventure,Sci-Fi--$183,887,723
+Knowing--Action,Mystery,Sci-Fi--$183,658,498
+102 Dalmatians--Adventure,Comedy,Family--$183,611,771
+Storks--Animation,Adventure,Comedy--$183,510,278
+Stand by Me Doraemon--Animation,Comedy,Drama--$183,442,714
+The Hitman's Bodyguard--Action,Comedy,Crime--$183,428,689
+Paul Blart: Mall Cop--Action,Comedy,Crime--$183,348,429
+Wayne's World--Comedy,Music--$183,097,323
+Maverick--Action,Adventure,Comedy--$183,031,272
+Mirror Mirror--Adventure,Comedy,Drama--$183,018,522
+The Man in the Iron Mask--Action,Adventure,Drama--$182,968,902
+Cape Fear--Crime,Thriller--$182,291,969
+The Haunted Mansion--Comedy,Family,Fantasy--$182,290,266
+Xi you ji: Da nao tian gong--Action,Adventure,Family--$182,206,924
+While You Were Sleeping--Comedy,Drama,Romance--$182,057,016
+The Bridges of Madison County--Drama,Romance--$182,016,617
+Du cheng feng yun III--Comedy,Drama--$181,732,879
+Poseidon--Action,Adventure,Thriller--$181,674,817
+The First Wives Club--Comedy--$181,489,203
+Xuan ya zhi shang--Crime,Drama,Thriller--$181,325,565
+Scooby-Doo 2: Monsters Unleashed--Adventure,Comedy,Family--$181,239,132
+Hot Shots!--Action,Comedy--$181,096,164
+Road to Perdition--Crime,Drama,Thriller--$181,001,478
+Kill Bill: Vol. 1--Action,Crime,Drama--$180,906,076
+The Scorpion King--Action,Adventure,Fantasy--$180,630,907
+Sweet Home Alabama--Comedy,Romance--$180,622,424
+Daddy's Home 2--Comedy--$180,613,824
+Hacksaw Ridge--Biography,Drama,History--$180,563,636
+Deja Vu--Action,Crime,Sci-Fi--$180,557,550
+Dangerous Minds--Biography,Drama--$179,519,401
+One Piece Film Red--Animation,Action,Adventure--$179,444,905
+The Dictator--Comedy--$179,379,533
+The League of Extraordinary Gentlemen--Action,Adventure,Fantasy--$179,265,204
+Allegiant--Action,Adventure,Mystery--$179,246,868
+Daredevil--Action,Crime--$179,179,718
+City Slickers--Comedy,Western--$179,033,791
+He's Just Not That Into You--Comedy,Drama,Romance--$178,866,158
+Eagle Eye--Action,Mystery,Thriller--$178,767,383
+Along Came Polly--Comedy,Romance--$178,311,729
+Flushed Away--Animation,Action,Adventure--$178,281,554
+Scary Movie 4--Comedy--$178,262,620
+Dante's Peak--Action,Adventure,Thriller--$178,127,760
+Brokeback Mountain--Drama,Romance--$178,062,759
+Patriot Games--Action,Thriller--$178,051,587
+Flubber--Comedy,Family,Sci-Fi--$177,977,226
+Baywatch--Action,Comedy,Crime--$177,856,751
+Double Jeopardy--Crime,Drama,Mystery--$177,841,558
+War Horse--Action,Adventure,Drama--$177,584,879
+Paranormal Activity 2--Horror,Mystery--$177,512,032
+How to Lose a Guy in 10 Days--Comedy,Romance--$177,502,387
+AVP: Alien vs. Predator--Action,Adventure,Horror--$177,427,090
+Ying xiong--Action,Adventure,Drama--$177,395,557
+The 40 Year Old Virgin--Comedy,Romance--$177,378,645

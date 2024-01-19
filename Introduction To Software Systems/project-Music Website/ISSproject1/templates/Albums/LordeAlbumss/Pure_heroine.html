@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="{{ url_for('static' , filename='style.css') }}">
+    <link href='https://fonts.googleapis.com/css?family=Bungee Inline' rel='stylesheet'>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <title>
+        Sonic Sphere/Lorde/Pure Heroine
+    </title>
+    <link rel="icon" type="image/x-icon" href="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg">
+    <div class="navbar">
+    <div class="name">
+            <a href="{{url_for('home')}}" style="position:relative;left:900px;top:20px;">Home</a>
+            <a href="{{url_for('Artists')}}" style="position:relative;left:900px;top: 20px;">Artists</a>
+            <a href="{{url_for('Album')}}" class="active" style="position:relative;left:900px;top:20px">Albums</a>
+            <a href="{{url_for('Search')}}" style="position: relative; left:900px; top:20px;">Search</a>
+            <!-- <a href="../../sampleSongs.html" style="position:relative;left:1080px;top:20px">Songs</a> -->
+            <a href="{{url_for('Playlist')}}" style="position: relative; left:900px; top:20px;">Playlist</a>
+                  <a href="{{url_for('ArtistSpotlight')}}"  style="position:relative;left:900px;top: 20px;">Artist Spotlight</a>
+      <a href="{{url_for('About')}}" style="position:relative;left:900px;top: 20px;">About</a>
+        </div>
+        <a href="{{url_for('home')}}">
+            <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                style="width: 50px;height: 50px; border-radius: 50%;position:relative;right:500px;"> </a>
+        <a href="{{url_for('home')}}"
+            style="font-family: Bungee Inline;position: relative;top:7px;right:530px;font-size: 30px;"> SonicSphere </a>
+    </div>
+
+</head>
+
+
+<body>
+    <div class="container1">
+        <a id="top"></a>
+
+        <p></p>
+
+        <div class="container11">
+
+            <p></p>
+            <img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81iBB1wmLfL._SY355_.jpg"
+                style="width:270px;height: 270px;box-shadow: 0 4px 60px rgba(0,0,0,.5);">
+            <div class="parta">
+                <p> Album</p>
+                <h1 style="font-size: 80px;">Pure Heroine</h1>
+
+
+                <div class="container6">
+                    <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3"
+                        style="border-radius: 50%;width:40px;height:40px; ">
+
+                    <a href="{{url_for('Lorde')}}"
+                        style="color:antiquewhite;position:relative;top:13px; right: 59px;">Lorde</a>
+                    <span class="container7" style="position: relative;right: 182px;">
+                        2013
+                    </span>
+                    <span class="container7" style="position: relative;right: 228px;">
+                        10 songs,37 min 11 sec
+                    </span>
+                </div>
+
+
+
+            </div>
+
+
+        </div>
+
+        <!-- <hr style="position:relative;top:400px;height: 0.245px;background-color: whitesmoke; border: none;margin: 10px 0; "> -->
+        <div class="container8">
+            <p></p>
+            <p>#</p>
+            <p>Title</p>
+            <span class="material-symbols-outlined" style="position:relative; top:10px; font-size: 20px;">
+                schedule
+            </span>
+
+
+        </div>
+        <hr style="width:1200px;position: relative;top:370px">
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>1</p>
+            <p>400 Lux</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="156">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>3:54</p>
+        </div>
+
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>2</p>
+            <p>Royals</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="157">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>3:11</p>
+        </div>
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>3</p>
+            <p>Buzzcut Season</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="158">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>4:06</p>
+        </div>
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>4</p>
+            <p>Team</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="159">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>3:13</p>
+        </div>
+        <div class="container9" style="font-size: 15px;">
+            <p></p>
+            <p>5</p>
+            <p>Glory And Gore</p>
+            <form method="post" action="{{ url_for('retrieve_id') }}">
+                <input type="hidden" name="id" value="160">
+                <button type="submit" style="position: relative;top:10px; box-shadow: 0 4px 60px rgba(0, 0, 0, 5);background-color:blanchedalmond;border-radius: 10px;height: 30px;" title="Add to Playlist"><span class="material-symbols-outlined">
+                    playlist_add
+                    </span></button>
+              </form>
+            <p>3:30</p>
+        </div>
+
+
+
+        <br>
+        <br>
+        <footer style="position: relative;top:350px">
+            <div class="footer-container">
+                <div class="footer-logo">
+                    <a href="{{ url_for('home')}}">
+                        <img src="https://previews.123rf.com/images/cienpies/cienpies1201/cienpies120100003/11859954-high-contrast-music-instruments-silhouette-in-circle-shape-vector-file-available.jpg"
+                            style="width: 50px;height: 50px; border-radius: 50%;position:relative;top:13px;right:0px;left:50px">
+                    </a>
+                    <a href="{{ url_for('home')}}"
+                        style="font-family: Bungee Inline;color:aliceblue; font-size: 30px;position: relative;right: 0px;left: 50px;">
+                        SonicSphere </a>
+                </div>
+                <div class="footer-links" style="position: relative;right: 150px;">
+                    <ul>
+                        <li><a href="{{url_for('home')}}">Home</a></li>
+                        <li><a href="{{url_for('About')}}">About Us</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="{{ url_for('Privacy_policy') }}">Privacy Policy</a></li>
+                        <li><a href="{{ url_for('Terms_of_service') }}">Terms of Service</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- <div class="footer-social" >
+              <ul>
+                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+              </ul>
+           </div> -->
+
+            <div class="footer-credits" style="position: relative;left: 200px;">
+                <p>&copy; 2023 Sonicsphere. All rights reserved.</p>
+            </div>
+        </footer>
+
+</body>
+
+</html>

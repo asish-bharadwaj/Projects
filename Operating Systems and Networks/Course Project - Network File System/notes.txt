@@ -1,0 +1,8 @@
+for Storage Server, run: ./ss IP_Address Client_Port_No No_Of_Accessible_Paths Naming_Server_Port
+                        on command line e.g. ./ss 127.0.0.1 12345 1 12347
+
+on client side, enter commands as COMMAND FILE_OR_DIR (1-file/2-dir) No_Of_Accessible_Path
+                                eg. READ 1 ss1/file.txt (1 as ss1/file.txt is a file)
+
+ASSUMPTIONS: 
+-dir name includes only lowercase alphabets, numbers and /
