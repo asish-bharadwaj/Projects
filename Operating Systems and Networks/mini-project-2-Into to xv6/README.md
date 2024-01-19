@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/DLipn7os)
-[![Project Description]](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp2)
+
+[Project Description](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp2)
 # Intro to Xv6
 OSN Monsoon 2023 mini project 2
 
