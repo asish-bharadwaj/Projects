@@ -1,4 +1,4 @@
-[![Project Description]](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp1)
+[Project Description](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp1)
 # Description
 
 1. execute.c	-	to execute system commands [specification 6]
