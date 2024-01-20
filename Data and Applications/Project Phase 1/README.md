@@ -12,13 +12,20 @@ Please list out the requirements of your database/mini-world
 
 Your mini-world should result in data requirements that have:
 ● At least five strong entity types
+
 ● At least one weak entity with two key attributes
+
 ● At least two weak-entity types
+
 ● At least five relationship types(which should include cardinality ratios and participation constraints)
+
 ● At least one (n > 2) degree relationship type.
+
 ● Few composite, multi-valued, derived attributes
+
 ● Relationship type with the same participating entity type in distinct roles
   Example: In a COMPANY database SUPERVISION relationships between EMPLOYEE (in the role of supervisor) and EMPLOYEE (in the role of subordinate)
+  
 ● At least one (n > 3) degree relationship type
 
 Functional Requirements
